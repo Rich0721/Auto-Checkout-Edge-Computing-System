@@ -1,0 +1,1462 @@
+../datasets/test_network/JPEGImages/02085.jpg 380,177,539,337,15
+../datasets/test_network/JPEGImages/01193.jpg 362,1,567,125,10
+../datasets/test_network/JPEGImages/06671.jpg 364,9,424,107,19 205,6,366,156,22 222,110,506,307,8
+../datasets/test_network/JPEGImages/04215.jpg 211,19,385,106,26
+../datasets/test_network/JPEGImages/03399.jpg 293,137,412,248,22
+../datasets/test_network/JPEGImages/04623.jpg 180,197,289,294,29
+../datasets/test_network/JPEGImages/01002.jpg 318,6,521,292,8
+../datasets/test_network/JPEGImages/05982.jpg 172,6,323,179,20 350,77,415,160,18
+../datasets/test_network/JPEGImages/00128.jpg 223,1,551,264,1
+../datasets/test_network/JPEGImages/03623.jpg 233,124,351,252,23
+../datasets/test_network/JPEGImages/06175.jpg 309,1,554,133,3 218,145,402,309,6 434,188,490,299,29 310,122,383,190,18 140,14,291,168,20
+../datasets/test_network/JPEGImages/00352.jpg 175,132,279,341,3
+../datasets/test_network/JPEGImages/01019.jpg 249,10,564,291,8
+../datasets/test_network/JPEGImages/04198.jpg 467,1,569,97,26
+../datasets/test_network/JPEGImages/01176.jpg 374,59,573,147,10
+../datasets/test_network/JPEGImages/02328.jpg 200,90,341,204,17
+../datasets/test_network/JPEGImages/04523.jpg 227,1,278,91,28
+../datasets/test_network/JPEGImages/06303.jpg 159,1,331,103,17 226,90,339,245,20 323,62,508,262,6
+../datasets/test_network/JPEGImages/01626.jpg 447,132,581,259,13
+../datasets/test_network/JPEGImages/06886.jpg 391,1,530,94,30 276,1,364,127,15 171,170,396,262,7
+../datasets/test_network/JPEGImages/05779.jpg 369,152,543,254,26 158,94,346,253,12
+../datasets/test_network/JPEGImages/04025.jpg 327,7,559,80,25
+../datasets/test_network/JPEGImages/05487.jpg 172,91,336,177,26 346,202,480,313,23
+../datasets/test_network/JPEGImages/04078.jpg 459,110,556,279,26
+../datasets/test_network/JPEGImages/05613.jpg 251,1,539,186,12 403,212,509,338,14 286,209,385,345,21
+../datasets/test_network/JPEGImages/05157.jpg 328,22,522,229,4 343,1,449,93,25 183,1,322,144,10 147,137,406,325,16
+../datasets/test_network/JPEGImages/05866.jpg 329,5,520,119,26 182,1,342,105,13
+../datasets/test_network/JPEGImages/01999.jpg 132,1,226,184,15
+../datasets/test_network/JPEGImages/00275.jpg 392,48,598,235,2
+../datasets/test_network/JPEGImages/06352.jpg 373,12,497,168,22 247,112,399,240,28 450,204,493,283,19
+../datasets/test_network/JPEGImages/03629.jpg 325,65,487,223,23
+../datasets/test_network/JPEGImages/01625.jpg 445,184,576,306,13
+../datasets/test_network/JPEGImages/06426.jpg 305,1,474,106,8 217,78,326,161,19 298,164,421,309,22
+../datasets/test_network/JPEGImages/02090.jpg 261,244,336,312,15
+../datasets/test_network/JPEGImages/05843.jpg 145,1,309,101,13 221,85,386,254,5 420,1,598,120,14 395,157,565,259,26
+../datasets/test_network/JPEGImages/03319.jpg 197,21,296,173,21
+../datasets/test_network/JPEGImages/02413.jpg 322,169,399,215,18
+../datasets/test_network/JPEGImages/04326.jpg 188,195,254,281,27
+../datasets/test_network/JPEGImages/04329.jpg 152,1,319,126,27
+../datasets/test_network/JPEGImages/03990.jpg 177,139,226,324,25
+../datasets/test_network/JPEGImages/00474.jpg 224,140,461,220,4
+../datasets/test_network/JPEGImages/02130.jpg 180,45,366,183,15
+../datasets/test_network/JPEGImages/00393.jpg 357,1,579,203,3
+../datasets/test_network/JPEGImages/04313.jpg 172,117,328,251,27
+../datasets/test_network/JPEGImages/00326.jpg 249,166,384,313,2
+../datasets/test_network/JPEGImages/04319.jpg 136,137,302,203,27
+../datasets/test_network/JPEGImages/05332.jpg 250,1,555,248,11 135,124,273,290,4
+../datasets/test_network/JPEGImages/02774.jpg 367,3,427,89,19
+../datasets/test_network/JPEGImages/03815.jpg 147,50,294,180,24
+../datasets/test_network/JPEGImages/01936.jpg 257,1,431,161,15
+../datasets/test_network/JPEGImages/04497.jpg 184,1,311,97,28
+../datasets/test_network/JPEGImages/00399.jpg 342,144,587,223,3
+../datasets/test_network/JPEGImages/03390.jpg 393,96,556,243,22
+../datasets/test_network/JPEGImages/01983.jpg 360,169,432,319,15
+../datasets/test_network/JPEGImages/03190.jpg 371,1,543,127,21
+../datasets/test_network/JPEGImages/01946.jpg 360,89,552,195,15
+../datasets/test_network/JPEGImages/04990.jpg 235,86,449,216,30
+../datasets/test_network/JPEGImages/05771.jpg 375,1,591,89,12 105,81,282,249,5 224,1,374,74,13 299,126,448,234,21
+../datasets/test_network/JPEGImages/04541.jpg 472,127,537,273,28
+../datasets/test_network/JPEGImages/03271.jpg 219,167,370,303,21
+../datasets/test_network/JPEGImages/06896.jpg 209,96,385,212,15 407,1,549,111,30
+../datasets/test_network/JPEGImages/05283.jpg 432,92,566,290,25 194,1,483,247,16
+../datasets/test_network/JPEGImages/01402.jpg 107,13,378,285,11
+../datasets/test_network/JPEGImages/05495.jpg 419,172,526,317,21 226,2,396,173,14 119,118,403,305,12
+../datasets/test_network/JPEGImages/01197.jpg 251,3,424,188,10
+../datasets/test_network/JPEGImages/05790.jpg 190,1,356,162,14 432,85,547,224,23
+../datasets/test_network/JPEGImages/06448.jpg 120,122,355,336,8 335,204,462,312,22
+../datasets/test_network/JPEGImages/06270.jpg 166,169,303,367,3
+../datasets/test_network/JPEGImages/05446.jpg 341,223,443,316,23
+../datasets/test_network/JPEGImages/01067.jpg 382,1,587,136,9
+../datasets/test_network/JPEGImages/00446.jpg 285,1,376,156,3
+../datasets/test_network/JPEGImages/03736.jpg 402,114,518,269,24
+../datasets/test_network/JPEGImages/00649.jpg 139,184,291,309,5
+../datasets/test_network/JPEGImages/06875.jpg 189,106,345,257,7
+../datasets/test_network/JPEGImages/05514.jpg 125,1,322,155,12 358,1,475,112,21
+../datasets/test_network/JPEGImages/02235.jpg 217,1,537,224,16
+../datasets/test_network/JPEGImages/07294.jpg 178,1,316,91,24 329,1,519,227,30 171,190,332,306,15
+../datasets/test_network/JPEGImages/01943.jpg 360,269,535,313,15
+../datasets/test_network/JPEGImages/03131.jpg 393,19,552,136,20
+../datasets/test_network/JPEGImages/02687.jpg 382,191,439,274,19
+../datasets/test_network/JPEGImages/05087.jpg 184,1,349,94,16 464,1,560,149,27 264,11,466,292,11
+../datasets/test_network/JPEGImages/04515.jpg 344,122,406,287,28
+../datasets/test_network/JPEGImages/04414.jpg 233,45,313,220,28
+../datasets/test_network/JPEGImages/00661.jpg 240,85,383,236,5
+../datasets/test_network/JPEGImages/00455.jpg 283,1,481,149,3
+../datasets/test_network/JPEGImages/04791.jpg 262,69,369,183,29
+../datasets/test_network/JPEGImages/00947.jpg 273,5,578,312,8
+../datasets/test_network/JPEGImages/00707.jpg 187,2,372,172,5
+../datasets/test_network/JPEGImages/01235.jpg 364,229,546,300,10
+../datasets/test_network/JPEGImages/06901.jpg 133,1,349,247,7 378,145,530,244,24
+../datasets/test_network/JPEGImages/03195.jpg 246,1,392,120,21
+../datasets/test_network/JPEGImages/05303.jpg 341,140,519,304,10
+../datasets/test_network/JPEGImages/01323.jpg 331,221,482,338,10
+../datasets/test_network/JPEGImages/05766.jpg 205,1,343,74,14 175,132,339,218,26 360,103,556,256,12 238,228,361,334,13
+../datasets/test_network/JPEGImages/01543.jpg 107,1,233,110,13
+../datasets/test_network/JPEGImages/05950.jpg 341,42,469,91,29 157,1,351,119,6
+../datasets/test_network/JPEGImages/00187.jpg 223,1,552,282,1
+../datasets/test_network/JPEGImages/02456.jpg 365,164,426,246,18
+../datasets/test_network/JPEGImages/05172.jpg 329,1,543,223,16 192,1,337,138,4 234,142,351,288,27
+../datasets/test_network/JPEGImages/03608.jpg 324,157,481,309,23
+../datasets/test_network/JPEGImages/01551.jpg 302,51,467,212,13
+../datasets/test_network/JPEGImages/03645.jpg 251,70,381,185,23
+../datasets/test_network/JPEGImages/01505.jpg 281,1,605,196,12
+../datasets/test_network/JPEGImages/02763.jpg 297,266,376,326,19
+../datasets/test_network/JPEGImages/02642.jpg 204,288,278,354,18
+../datasets/test_network/JPEGImages/00081.jpg 273,10,559,218,0
+../datasets/test_network/JPEGImages/01811.jpg 375,155,535,311,14
+../datasets/test_network/JPEGImages/04490.jpg 489,1,557,119,28
+../datasets/test_network/JPEGImages/00888.jpg 257,59,425,314,7
+../datasets/test_network/JPEGImages/05610.jpg 335,1,498,82,13 153,20,315,193,5 262,156,529,267,12
+../datasets/test_network/JPEGImages/06807.jpg 252,1,399,60,2 186,54,364,301,8
+../datasets/test_network/JPEGImages/00121.jpg 155,1,356,201,1
+../datasets/test_network/JPEGImages/04356.jpg 376,60,548,213,27
+../datasets/test_network/JPEGImages/05718.jpg 249,46,422,164,26 347,177,506,328,14
+../datasets/test_network/JPEGImages/01789.jpg 180,149,320,297,14
+../datasets/test_network/JPEGImages/01234.jpg 172,1,342,142,10
+../datasets/test_network/JPEGImages/06589.jpg 127,1,299,118,8 322,41,541,325,0
+../datasets/test_network/JPEGImages/05906.jpg 236,1,311,49,18 316,1,492,58,17
+../datasets/test_network/JPEGImages/02618.jpg 495,86,564,173,18
+../datasets/test_network/JPEGImages/06041.jpg 302,56,476,210,20 181,1,318,136,17
+../datasets/test_network/JPEGImages/01180.jpg 244,135,420,219,10
+../datasets/test_network/JPEGImages/02605.jpg 218,187,293,252,18
+../datasets/test_network/JPEGImages/02588.jpg 400,63,484,139,18
+../datasets/test_network/JPEGImages/02951.jpg 188,87,260,163,19
+../datasets/test_network/JPEGImages/04750.jpg 422,1,560,53,29
+../datasets/test_network/JPEGImages/06497.jpg 130,1,318,151,0 313,1,396,47,28 422,60,620,222,2 331,165,401,257,19
+../datasets/test_network/JPEGImages/07020.jpg 390,2,537,209,15 217,126,370,244,24
+../datasets/test_network/JPEGImages/05091.jpg 223,33,365,210,25 293,1,473,74,11 305,58,467,236,10
+../datasets/test_network/JPEGImages/05828.jpg 231,8,531,275,12
+../datasets/test_network/JPEGImages/00699.jpg 239,9,392,161,5
+../datasets/test_network/JPEGImages/01411.jpg 207,28,477,234,11
+../datasets/test_network/JPEGImages/04889.jpg 122,1,259,216,30
+../datasets/test_network/JPEGImages/00811.jpg 305,1,447,150,6
+../datasets/test_network/JPEGImages/05244.jpg 311,15,508,223,4 133,1,395,255,16
+../datasets/test_network/JPEGImages/06118.jpg 207,65,362,242,17 426,194,532,275,29
+../datasets/test_network/JPEGImages/02552.jpg 318,256,400,312,18
+../datasets/test_network/JPEGImages/03602.jpg 251,192,364,293,23
+../datasets/test_network/JPEGImages/00641.jpg 251,175,385,304,5
+../datasets/test_network/JPEGImages/04271.jpg 358,58,433,237,27
+../datasets/test_network/JPEGImages/03102.jpg 391,1,560,150,20
+../datasets/test_network/JPEGImages/02601.jpg 272,74,348,145,18
+../datasets/test_network/JPEGImages/05827.jpg 280,1,452,93,14 234,82,529,325,12
+../datasets/test_network/JPEGImages/06473.jpg 141,1,305,108,2 344,51,438,143,19
+../datasets/test_network/JPEGImages/02681.jpg 514,258,574,342,19
+../datasets/test_network/JPEGImages/00698.jpg 240,81,389,217,5
+../datasets/test_network/JPEGImages/06047.jpg 163,157,323,306,6
+../datasets/test_network/JPEGImages/01281.jpg 225,70,310,250,10
+../datasets/test_network/JPEGImages/01456.jpg 208,1,393,225,12
+../datasets/test_network/JPEGImages/01440.jpg 296,73,481,264,11
+../datasets/test_network/JPEGImages/02030.jpg 142,103,312,187,15
+../datasets/test_network/JPEGImages/04821.jpg 423,1,567,138,30
+../datasets/test_network/JPEGImages/06615.jpg 296,1,512,141,8 168,7,333,136,28 167,150,380,349,0
+../datasets/test_network/JPEGImages/05246.jpg 278,129,433,235,27 369,1,521,100,4 152,1,402,147,16 127,122,330,276,11
+../datasets/test_network/JPEGImages/04620.jpg 303,141,422,228,29
+../datasets/test_network/JPEGImages/05490.jpg 336,24,484,186,23 129,28,305,207,5 395,197,540,303,13
+../datasets/test_network/JPEGImages/03485.jpg 363,222,520,322,22
+../datasets/test_network/JPEGImages/00792.jpg 361,150,552,322,6
+../datasets/test_network/JPEGImages/06856.jpg 334,62,530,274,9
+../datasets/test_network/JPEGImages/00131.jpg 159,1,441,324,1
+../datasets/test_network/JPEGImages/06479.jpg 152,1,403,157,8 406,1,566,121,22 337,132,527,326,0 197,221,316,294,28
+../datasets/test_network/JPEGImages/06890.jpg 150,1,376,138,7 393,34,563,151,24
+../datasets/test_network/JPEGImages/06135.jpg 288,2,541,114,3 416,141,527,283,20 214,1,279,49,18 154,58,318,247,17 320,180,409,295,29
+../datasets/test_network/JPEGImages/03108.jpg 425,100,528,254,20
+../datasets/test_network/JPEGImages/02686.jpg 382,239,439,322,19
+../datasets/test_network/JPEGImages/06003.jpg 373,163,521,293,6
+../datasets/test_network/JPEGImages/01459.jpg 128,64,309,306,12
+../datasets/test_network/JPEGImages/03474.jpg 352,1,517,125,22
+../datasets/test_network/JPEGImages/05106.jpg 208,1,367,167,25 425,211,519,427,4
+../datasets/test_network/JPEGImages/05707.jpg 400,62,553,217,23 244,9,402,184,14
+../datasets/test_network/JPEGImages/03723.jpg 159,170,299,305,24
+../datasets/test_network/JPEGImages/03014.jpg 379,28,467,99,19
+../datasets/test_network/JPEGImages/01603.jpg 305,50,435,185,13
+../datasets/test_network/JPEGImages/06672.jpg 209,48,515,252,8 219,1,365,102,22
+../datasets/test_network/JPEGImages/03563.jpg 155,123,303,269,23
+../datasets/test_network/JPEGImages/00360.jpg 176,62,365,271,3
+../datasets/test_network/JPEGImages/02485.jpg 196,167,241,244,18
+../datasets/test_network/JPEGImages/01524.jpg 102,1,395,211,12
+../datasets/test_network/JPEGImages/06616.jpg 286,1,483,86,8 197,1,339,78,28 125,77,439,303,0 427,207,506,288,19
+../datasets/test_network/JPEGImages/02853.jpg 337,157,409,236,19
+../datasets/test_network/JPEGImages/04057.jpg 362,58,555,148,26
+../datasets/test_network/JPEGImages/04399.jpg 444,1,525,190,27
+../datasets/test_network/JPEGImages/05480.jpg 357,1,517,96,23 222,25,379,158,14 169,196,309,301,21 326,173,505,291,12
+../datasets/test_network/JPEGImages/04897.jpg 222,22,457,253,30
+../datasets/test_network/JPEGImages/01460.jpg 124,17,319,270,12
+../datasets/test_network/JPEGImages/06439.jpg 118,1,394,142,8 368,1,524,149,22 339,122,414,206,19 121,164,369,311,0 400,202,479,357,28
+../datasets/test_network/JPEGImages/03053.jpg 381,137,543,285,20
+../datasets/test_network/JPEGImages/00753.jpg 447,158,588,327,6
+../datasets/test_network/JPEGImages/05898.jpg 373,72,427,198,29 217,102,345,254,20
+../datasets/test_network/JPEGImages/06834.jpg 122,1,350,157,30 336,1,608,126,9 293,140,483,217,15
+../datasets/test_network/JPEGImages/01185.jpg 138,154,308,241,10
+../datasets/test_network/JPEGImages/05884.jpg 158,1,319,98,21 230,150,335,270,23 356,105,547,262,12
+../datasets/test_network/JPEGImages/01953.jpg 205,17,392,141,15
+../datasets/test_network/JPEGImages/06814.jpg 298,1,509,133,0 229,44,297,132,19 260,169,413,312,22 404,226,526,307,28
+../datasets/test_network/JPEGImages/01618.jpg 272,13,434,169,13
+../datasets/test_network/JPEGImages/00381.jpg 412,1,500,211,3
+../datasets/test_network/JPEGImages/06484.jpg 126,1,238,60,28 279,1,479,91,0 403,96,567,229,2 287,134,362,223,19
+../datasets/test_network/JPEGImages/06908.jpg 179,95,326,263,15 390,1,546,150,30
+../datasets/test_network/JPEGImages/01900.jpg 408,1,596,109,14
+../datasets/test_network/JPEGImages/00729.jpg 266,84,452,260,5
+../datasets/test_network/JPEGImages/03283.jpg 312,51,412,207,21
+../datasets/test_network/JPEGImages/01724.jpg 403,133,548,241,14
+../datasets/test_network/JPEGImages/02537.jpg 480,298,564,384,18
+../datasets/test_network/JPEGImages/04828.jpg 134,169,266,348,30
+../datasets/test_network/JPEGImages/01920.jpg 197,118,272,289,15
+../datasets/test_network/JPEGImages/00195.jpg 189,1,522,268,1
+../datasets/test_network/JPEGImages/04374.jpg 164,1,293,128,27
+../datasets/test_network/JPEGImages/00441.jpg 440,1,539,190,3
+../datasets/test_network/JPEGImages/01518.jpg 144,1,441,224,12
+../datasets/test_network/JPEGImages/01429.jpg 141,12,421,272,11
+../datasets/test_network/JPEGImages/00700.jpg 151,114,300,248,5
+../datasets/test_network/JPEGImages/01989.jpg 258,191,333,298,15
+../datasets/test_network/JPEGImages/01830.jpg 443,59,559,210,14
+../datasets/test_network/JPEGImages/02040.jpg 263,130,429,293,15
+../datasets/test_network/JPEGImages/04467.jpg 263,147,316,304,28
+../datasets/test_network/JPEGImages/07245.jpg 312,1,571,176,7 186,149,300,253,24 336,179,511,271,9
+../datasets/test_network/JPEGImages/03797.jpg 193,151,320,269,24
+../datasets/test_network/JPEGImages/06068.jpg 164,1,305,89,20 302,1,464,204,3 282,213,324,323,29 390,191,537,305,6
+../datasets/test_network/JPEGImages/00140.jpg 100,1,391,172,1
+../datasets/test_network/JPEGImages/00598.jpg 220,101,409,282,4
+../datasets/test_network/JPEGImages/01298.jpg 274,69,439,250,10
+../datasets/test_network/JPEGImages/00719.jpg 415,79,598,223,5
+../datasets/test_network/JPEGImages/00060.jpg 265,1,590,268,0
+../datasets/test_network/JPEGImages/02638.jpg 276,171,354,243,18
+../datasets/test_network/JPEGImages/05805.jpg 378,1,546,102,5 230,24,400,175,26 401,89,570,247,14 256,157,394,283,23
+../datasets/test_network/JPEGImages/02943.jpg 454,197,530,278,19
+../datasets/test_network/JPEGImages/01741.jpg 375,161,534,314,14
+../datasets/test_network/JPEGImages/00223.jpg 190,3,334,152,2
+../datasets/test_network/JPEGImages/02334.jpg 120,60,270,189,17
+../datasets/test_network/JPEGImages/03868.jpg 133,63,290,230,25
+../datasets/test_network/JPEGImages/01702.jpg 140,214,274,311,14
+../datasets/test_network/JPEGImages/02520.jpg 287,128,357,213,18
+../datasets/test_network/JPEGImages/00909.jpg 101,1,334,182,7
+../datasets/test_network/JPEGImages/06295.jpg 189,1,355,112,20 171,230,254,341,3
+../datasets/test_network/JPEGImages/06562.jpg 338,49,536,260,8
+../datasets/test_network/JPEGImages/03466.jpg 409,142,535,268,22
+../datasets/test_network/JPEGImages/00651.jpg 131,48,295,187,5
+../datasets/test_network/JPEGImages/06622.jpg 160,4,294,152,22 305,35,458,198,2
+../datasets/test_network/JPEGImages/06459.jpg 160,3,305,160,2
+../datasets/test_network/JPEGImages/06674.jpg 209,1,513,150,8 147,148,320,381,0 333,197,387,287,28
+../datasets/test_network/JPEGImages/02481.jpg 235,41,282,120,18
+../datasets/test_network/JPEGImages/05092.jpg 302,1,472,184,10 226,1,362,155,25
+../datasets/test_network/JPEGImages/03684.jpg 405,117,569,212,24
+../datasets/test_network/JPEGImages/01337.jpg 333,117,513,280,10
+../datasets/test_network/JPEGImages/00954.jpg 114,1,384,285,8
+../datasets/test_network/JPEGImages/02313.jpg 425,1,586,108,17
+../datasets/test_network/JPEGImages/03881.jpg 124,123,316,170,25
+../datasets/test_network/JPEGImages/01633.jpg 312,9,441,148,13
+../datasets/test_network/JPEGImages/06614.jpg 295,1,549,204,8 170,73,337,199,28
+../datasets/test_network/JPEGImages/04651.jpg 277,1,333,90,29
+../datasets/test_network/JPEGImages/03177.jpg 312,114,416,263,21
+../datasets/test_network/JPEGImages/05154.jpg 308,98,440,264,25 192,120,326,293,10
+../datasets/test_network/JPEGImages/03386.jpg 148,17,276,149,22
+../datasets/test_network/JPEGImages/03095.jpg 151,150,287,243,20
+../datasets/test_network/JPEGImages/06161.jpg 238,42,478,135,3
+../datasets/test_network/JPEGImages/01333.jpg 201,5,292,194,10
+../datasets/test_network/JPEGImages/03851.jpg 331,1,382,172,25
+../datasets/test_network/JPEGImages/03879.jpg 137,233,325,274,25
+../datasets/test_network/JPEGImages/01819.jpg 246,1,407,169,14
+../datasets/test_network/JPEGImages/04424.jpg 467,1,575,159,28
+../datasets/test_network/JPEGImages/00108.jpg 266,14,598,301,0
+../datasets/test_network/JPEGImages/03716.jpg 413,137,563,280,24
+../datasets/test_network/JPEGImages/05801.jpg 274,1,429,94,26
+../datasets/test_network/JPEGImages/00822.jpg 215,110,408,293,6
+../datasets/test_network/JPEGImages/00408.jpg 318,1,562,162,3
+../datasets/test_network/JPEGImages/01492.jpg 295,1,497,234,12
+../datasets/test_network/JPEGImages/07175.jpg 321,41,548,187,30 191,174,331,245,24
+../datasets/test_network/JPEGImages/02318.jpg 361,19,514,156,17
+../datasets/test_network/JPEGImages/04923.jpg 255,120,485,274,30
+../datasets/test_network/JPEGImages/07311.jpg 198,41,378,121,15 171,127,419,265,7
+../datasets/test_network/JPEGImages/03652.jpg 254,161,361,275,23
+../datasets/test_network/JPEGImages/01649.jpg 390,1,574,111,13
+../datasets/test_network/JPEGImages/04289.jpg 130,49,256,217,27
+../datasets/test_network/JPEGImages/06359.jpg 247,1,510,157,0 137,100,418,316,8
+../datasets/test_network/JPEGImages/02490.jpg 156,257,202,327,18
+../datasets/test_network/JPEGImages/05279.jpg 346,1,599,126,4
+../datasets/test_network/JPEGImages/04979.jpg 202,64,330,276,30
+../datasets/test_network/JPEGImages/04748.jpg 409,115,544,171,29
+../datasets/test_network/JPEGImages/04872.jpg 414,47,559,278,30
+../datasets/test_network/JPEGImages/00843.jpg 370,95,565,302,6
+../datasets/test_network/JPEGImages/01023.jpg 398,77,601,268,9
+../datasets/test_network/JPEGImages/06017.jpg 243,141,400,281,20
+../datasets/test_network/JPEGImages/04354.jpg 153,1,332,60,27
+../datasets/test_network/JPEGImages/06520.jpg 241,1,561,208,0 133,71,302,185,28
+../datasets/test_network/JPEGImages/01290.jpg 374,1,538,126,10
+../datasets/test_network/JPEGImages/04060.jpg 226,71,398,159,26
+../datasets/test_network/JPEGImages/06907.jpg 189,1,371,121,9 177,146,324,314,15 375,1,538,212,30
+../datasets/test_network/JPEGImages/00374.jpg 343,1,508,156,3
+../datasets/test_network/JPEGImages/06946.jpg 265,1,375,67,15 158,49,361,255,9 388,89,520,297,30
+../datasets/test_network/JPEGImages/04017.jpg 215,161,263,336,25
+../datasets/test_network/JPEGImages/00145.jpg 268,1,513,186,1
+../datasets/test_network/JPEGImages/05379.jpg 188,147,265,311,10 269,38,337,248,25 300,1,555,286,16
+../datasets/test_network/JPEGImages/07149.jpg 359,1,529,142,30 233,83,384,211,24
+../datasets/test_network/JPEGImages/01875.jpg 249,154,400,303,14
+../datasets/test_network/JPEGImages/00376.jpg 183,35,370,242,3
+../datasets/test_network/JPEGImages/01478.jpg 321,1,596,196,12
+../datasets/test_network/JPEGImages/04727.jpg 201,212,318,286,29
+../datasets/test_network/JPEGImages/00679.jpg 345,1,540,184,5
+../datasets/test_network/JPEGImages/00898.jpg 162,1,425,219,7
+../datasets/test_network/JPEGImages/04416.jpg 246,1,313,106,28
+../datasets/test_network/JPEGImages/04984.jpg 353,173,575,291,30
+../datasets/test_network/JPEGImages/07145.jpg 154,120,335,234,15 391,142,535,297,30
+../datasets/test_network/JPEGImages/03518.jpg 402,1,572,143,23
+../datasets/test_network/JPEGImages/05603.jpg 360,183,496,302,23 220,1,388,118,21
+../datasets/test_network/JPEGImages/01457.jpg 205,1,394,181,12
+../datasets/test_network/JPEGImages/05860.jpg 399,1,564,87,23 316,100,477,254,21 150,82,318,244,5 386,217,537,345,14
+../datasets/test_network/JPEGImages/05963.jpg 247,55,379,234,6 418,60,489,188,29
+../datasets/test_network/JPEGImages/01601.jpg 308,155,438,281,13
+../datasets/test_network/JPEGImages/00479.jpg 132,52,360,143,4
+../datasets/test_network/JPEGImages/06171.jpg 308,95,486,239,17
+../datasets/test_network/JPEGImages/04267.jpg 468,53,557,238,27
+../datasets/test_network/JPEGImages/01107.jpg 366,1,557,152,9
+../datasets/test_network/JPEGImages/03380.jpg 247,55,379,183,22
+../datasets/test_network/JPEGImages/01089.jpg 201,1,412,209,9
+../datasets/test_network/JPEGImages/00770.jpg 235,122,427,302,6
+../datasets/test_network/JPEGImages/03422.jpg 263,1,389,141,22
+../datasets/test_network/JPEGImages/02648.jpg 156,262,223,330,18
+../datasets/test_network/JPEGImages/05253.jpg 413,88,543,313,4 315,1,470,93,25
+../datasets/test_network/JPEGImages/07085.jpg 191,43,359,215,15
+../datasets/test_network/JPEGImages/02982.jpg 375,79,457,152,19
+../datasets/test_network/JPEGImages/03786.jpg 142,123,290,200,24
+../datasets/test_network/JPEGImages/04075.jpg 130,91,275,241,26
+../datasets/test_network/JPEGImages/01203.jpg 136,1,311,128,10
+../datasets/test_network/JPEGImages/05457.jpg 395,117,582,245,26 108,1,431,153,12
+../datasets/test_network/JPEGImages/07021.jpg 389,1,526,150,15 214,60,370,184,24
+../datasets/test_network/JPEGImages/02161.jpg 327,99,517,179,15
+../datasets/test_network/JPEGImages/06649.jpg 277,1,425,111,2 352,105,565,258,8
+../datasets/test_network/JPEGImages/05216.jpg 353,148,436,287,4 352,1,560,89,10 202,1,301,181,25
+../datasets/test_network/JPEGImages/05143.jpg 384,121,499,341,4 230,1,415,136,25 143,1,312,165,10 152,169,317,303,16
+../datasets/test_network/JPEGImages/02595.jpg 334,63,417,131,18
+../datasets/test_network/JPEGImages/04321.jpg 117,1,295,59,27
+../datasets/test_network/JPEGImages/03696.jpg 383,73,549,189,24
+../datasets/test_network/JPEGImages/00922.jpg 358,48,546,302,7
+../datasets/test_network/JPEGImages/05113.jpg 368,84,538,224,27 165,85,433,302,11
+../datasets/test_network/JPEGImages/06250.jpg 336,195,512,311,6
+../datasets/test_network/JPEGImages/05443.jpg 155,1,368,148,11 296,114,484,204,10 417,1,515,107,25
+../datasets/test_network/JPEGImages/04103.jpg 430,3,626,151,26
+../datasets/test_network/JPEGImages/01358.jpg 171,156,321,318,10
+../datasets/test_network/JPEGImages/02122.jpg 376,177,517,307,15
+../datasets/test_network/JPEGImages/05539.jpg 326,176,471,270,21 254,25,391,157,13 134,164,313,285,12
+../datasets/test_network/JPEGImages/02034.jpg 367,181,546,327,15
+../datasets/test_network/JPEGImages/02978.jpg 373,277,457,349,19
+../datasets/test_network/JPEGImages/01917.jpg 330,1,416,131,15
+../datasets/test_network/JPEGImages/03593.jpg 172,160,313,300,23
+../datasets/test_network/JPEGImages/06451.jpg 97,1,360,255,8 332,30,457,159,22 416,195,483,299,28
+../datasets/test_network/JPEGImages/02238.jpg 286,1,609,228,16
+../datasets/test_network/JPEGImages/06611.jpg 303,1,465,102,2 325,69,565,273,8
+../datasets/test_network/JPEGImages/05947.jpg 196,1,319,102,3 180,102,351,284,6 349,1,541,173,17 339,214,458,262,29
+../datasets/test_network/JPEGImages/01654.jpg 252,1,426,121,13
+../datasets/test_network/JPEGImages/04731.jpg 186,1,305,72,29
+../datasets/test_network/JPEGImages/02564.jpg 240,32,316,99,18
+../datasets/test_network/JPEGImages/05409.jpg 162,1,339,199,11 349,19,531,278,16 160,193,319,264,27
+../datasets/test_network/JPEGImages/05927.jpg 368,1,526,163,17 272,227,337,298,18
+../datasets/test_network/JPEGImages/02201.jpg 190,42,474,300,16
+../datasets/test_network/JPEGImages/05929.jpg 274,115,331,197,18 318,169,476,309,20
+../datasets/test_network/JPEGImages/00967.jpg 135,48,430,310,8
+../datasets/test_network/JPEGImages/06152.jpg 257,33,427,172,17
+../datasets/test_network/JPEGImages/04550.jpg 221,126,277,286,28
+../datasets/test_network/JPEGImages/06623.jpg 292,1,458,141,2 158,1,285,99,22
+../datasets/test_network/JPEGImages/07026.jpg 161,1,357,189,7 369,1,557,191,9
+../datasets/test_network/JPEGImages/03927.jpg 140,1,304,120,25
+../datasets/test_network/JPEGImages/06371.jpg 216,1,336,60,22 267,1,511,216,0 199,167,356,261,28
+../datasets/test_network/JPEGImages/02712.jpg 295,310,374,379,19
+../datasets/test_network/JPEGImages/02558.jpg 244,282,320,351,18
+../datasets/test_network/JPEGImages/01149.jpg 206,2,314,195,10
+../datasets/test_network/JPEGImages/02141.jpg 395,1,539,105,15
+../datasets/test_network/JPEGImages/01108.jpg 221,107,401,282,9
+../datasets/test_network/JPEGImages/06527.jpg 224,51,559,301,8
+../datasets/test_network/JPEGImages/04368.jpg 372,80,567,159,27
+../datasets/test_network/JPEGImages/03967.jpg 244,112,451,177,25
+../datasets/test_network/JPEGImages/05716.jpg 418,44,593,200,5 184,1,302,135,21 259,170,417,278,26
+../datasets/test_network/JPEGImages/00199.jpg 189,1,424,238,1
+../datasets/test_network/JPEGImages/06736.jpg 403,1,529,121,22 180,1,360,166,2
+../datasets/test_network/JPEGImages/03241.jpg 186,161,285,300,21
+../datasets/test_network/JPEGImages/05151.jpg 345,1,565,219,11 274,1,379,147,27
+../datasets/test_network/JPEGImages/00518.jpg 212,151,425,297,4
+../datasets/test_network/JPEGImages/05489.jpg 136,104,309,259,5 331,88,481,240,23 158,1,340,68,26
+../datasets/test_network/JPEGImages/07059.jpg 429,1,534,151,15 430,176,503,251,24
+../datasets/test_network/JPEGImages/00133.jpg 153,1,422,227,1
+../datasets/test_network/JPEGImages/03465.jpg 409,202,531,315,22
+../datasets/test_network/JPEGImages/04751.jpg 262,180,374,257,29
+../datasets/test_network/JPEGImages/00080.jpg 279,65,556,271,0
+../datasets/test_network/JPEGImages/06066.jpg 165,41,302,199,20 309,102,424,234,3
+../datasets/test_network/JPEGImages/05058.jpg 122,22,274,245,4 292,56,463,297,16
+../datasets/test_network/JPEGImages/03449.jpg 129,51,258,166,22
+../datasets/test_network/JPEGImages/00846.jpg 262,136,449,317,6
+../datasets/test_network/JPEGImages/04558.jpg 427,1,538,100,28
+../datasets/test_network/JPEGImages/00167.jpg 118,1,433,210,1
+../datasets/test_network/JPEGImages/01171.jpg 138,15,291,197,10
+../datasets/test_network/JPEGImages/03893.jpg 150,136,305,279,25
+../datasets/test_network/JPEGImages/01868.jpg 165,1,270,109,14
+../datasets/test_network/JPEGImages/01266.jpg 153,1,316,133,10
+../datasets/test_network/JPEGImages/05431.jpg 322,1,491,113,27
+../datasets/test_network/JPEGImages/05818.jpg 254,47,428,226,5
+../datasets/test_network/JPEGImages/06145.jpg 207,1,358,62,20 176,51,244,175,29 244,136,391,260,3
+../datasets/test_network/JPEGImages/01079.jpg 139,74,362,297,9
+../datasets/test_network/JPEGImages/02025.jpg 258,58,440,150,15
+../datasets/test_network/JPEGImages/06428.jpg 234,1,303,45,19 296,48,439,213,22
+../datasets/test_network/JPEGImages/00420.jpg 183,59,297,285,3
+../datasets/test_network/JPEGImages/02549.jpg 398,78,482,149,18
+../datasets/test_network/JPEGImages/05851.jpg 130,1,422,202,12
+../datasets/test_network/JPEGImages/04288.jpg 158,127,263,222,27
+../datasets/test_network/JPEGImages/01586.jpg 195,98,350,261,13
+../datasets/test_network/JPEGImages/05724.jpg 402,197,506,321,13 161,51,378,337,12
+../datasets/test_network/JPEGImages/05881.jpg 149,1,314,90,26 177,119,322,256,21 342,61,464,212,13
+../datasets/test_network/JPEGImages/06012.jpg 311,1,471,157,17
+../datasets/test_network/JPEGImages/03146.jpg 198,28,359,175,20
+../datasets/test_network/JPEGImages/04892.jpg 352,73,578,306,30
+../datasets/test_network/JPEGImages/02990.jpg 367,290,445,370,19
+../datasets/test_network/JPEGImages/05782.jpg 366,1,556,71,26 159,1,371,203,12 289,186,441,302,21
+../datasets/test_network/JPEGImages/00054.jpg 282,1,567,215,0
+../datasets/test_network/JPEGImages/05856.jpg 115,1,385,288,12 387,157,536,303,23
+../datasets/test_network/JPEGImages/02532.jpg 163,227,237,300,18
+../datasets/test_network/JPEGImages/00271.jpg 326,1,522,162,2
+../datasets/test_network/JPEGImages/05483.jpg 143,28,300,153,21 276,1,520,290,12
+../datasets/test_network/JPEGImages/03143.jpg 211,184,359,317,20
+../datasets/test_network/JPEGImages/03413.jpg 400,214,508,335,22
+../datasets/test_network/JPEGImages/00366.jpg 325,1,587,61,3
+../datasets/test_network/JPEGImages/03019.jpg 314,145,426,297,20
+../datasets/test_network/JPEGImages/07118.jpg 180,148,350,278,15
+../datasets/test_network/JPEGImages/06915.jpg 208,1,398,117,7 459,1,559,118,24 274,121,452,245,9
+../datasets/test_network/JPEGImages/03798.jpg 183,85,321,225,24
+../datasets/test_network/JPEGImages/01696.jpg 396,1,552,103,14
+../datasets/test_network/JPEGImages/03303.jpg 323,103,474,212,21
+../datasets/test_network/JPEGImages/00863.jpg 297,44,559,294,7
+../datasets/test_network/JPEGImages/00075.jpg 260,1,589,274,0
+../datasets/test_network/JPEGImages/05002.jpg 207,161,425,314,30
+../datasets/test_network/JPEGImages/06060.jpg 148,27,301,212,6 345,1,400,116,29 356,178,515,290,17
+../datasets/test_network/JPEGImages/01545.jpg 395,122,567,278,13
+../datasets/test_network/JPEGImages/04858.jpg 358,89,587,309,30
+../datasets/test_network/JPEGImages/00435.jpg 144,63,366,206,3
+../datasets/test_network/JPEGImages/01793.jpg 158,1,297,96,14
+../datasets/test_network/JPEGImages/06657.jpg 152,1,335,183,0 350,43,445,132,19 378,157,525,319,22
+../datasets/test_network/JPEGImages/01182.jpg 237,13,423,111,10
+../datasets/test_network/JPEGImages/02787.jpg 393,279,477,328,19
+../datasets/test_network/JPEGImages/01021.jpg 246,1,573,190,8
+../datasets/test_network/JPEGImages/00924.jpg 365,1,552,207,7
+../datasets/test_network/JPEGImages/03356.jpg 234,90,378,238,22
+../datasets/test_network/JPEGImages/07249.jpg 208,1,304,69,24 343,1,553,162,9
+../datasets/test_network/JPEGImages/06387.jpg 251,1,578,206,8 134,45,291,175,28
+../datasets/test_network/JPEGImages/06700.jpg 322,52,572,348,8
+../datasets/test_network/JPEGImages/06027.jpg 251,1,318,58,18 337,1,552,158,6
+../datasets/test_network/JPEGImages/01950.jpg 214,198,391,293,15
+../datasets/test_network/JPEGImages/04556.jpg 425,49,574,220,28
+../datasets/test_network/JPEGImages/03672.jpg 408,143,502,289,24
+../datasets/test_network/JPEGImages/06495.jpg 153,1,350,257,0 314,46,502,173,28
+../datasets/test_network/JPEGImages/07071.jpg 187,74,318,256,15
+../datasets/test_network/JPEGImages/05152.jpg 348,1,542,168,11 272,1,356,88,27 199,225,287,308,10 308,209,367,268,25
+../datasets/test_network/JPEGImages/06653.jpg 202,1,314,166,28 184,160,340,272,0 338,1,546,168,8
+../datasets/test_network/JPEGImages/06757.jpg 334,90,420,145,19 146,1,318,171,8 218,217,279,305,28
+../datasets/test_network/JPEGImages/03132.jpg 392,1,558,84,20
+../datasets/test_network/JPEGImages/02106.jpg 409,91,503,272,15
+../datasets/test_network/JPEGImages/05159.jpg 382,1,535,107,4 426,126,539,236,27 133,20,411,244,16
+../datasets/test_network/JPEGImages/01252.jpg 360,156,531,318,10
+../datasets/test_network/JPEGImages/05277.jpg 282,1,556,112,11 162,1,297,134,10 349,96,585,240,4
+../datasets/test_network/JPEGImages/02397.jpg 474,249,572,318,18
+../datasets/test_network/JPEGImages/02390.jpg 182,199,341,349,17
+../datasets/test_network/JPEGImages/00280.jpg 153,117,323,271,2
+../datasets/test_network/JPEGImages/00533.jpg 165,16,276,247,4
+../datasets/test_network/JPEGImages/02630.jpg 344,167,409,250,18
+../datasets/test_network/JPEGImages/04278.jpg 146,133,228,236,27
+../datasets/test_network/JPEGImages/02131.jpg 179,1,366,131,15
+../datasets/test_network/JPEGImages/03290.jpg 165,1,265,145,21
+../datasets/test_network/JPEGImages/05380.jpg 298,1,554,232,16 263,1,333,196,25 182,92,261,266,10
+../datasets/test_network/JPEGImages/01187.jpg 123,35,304,137,10
+../datasets/test_network/JPEGImages/02554.jpg 318,169,398,227,18
+../datasets/test_network/JPEGImages/06287.jpg 177,55,257,172,29 311,1,538,136,3 295,67,467,232,17 256,240,314,299,18
+../datasets/test_network/JPEGImages/04641.jpg 492,39,544,172,29
+../datasets/test_network/JPEGImages/06420.jpg 261,1,560,198,0 140,162,275,320,2 357,156,548,260,8
+../datasets/test_network/JPEGImages/00813.jpg 194,69,328,242,6
+../datasets/test_network/JPEGImages/05987.jpg 236,1,396,148,6 433,1,486,132,29 184,182,281,340,3
+../datasets/test_network/JPEGImages/05553.jpg 206,1,349,134,13 141,177,269,307,14
+../datasets/test_network/JPEGImages/06605.jpg 120,1,412,166,0 456,18,527,123,19 176,218,287,329,22
+../datasets/test_network/JPEGImages/03502.jpg 436,72,551,202,23
+../datasets/test_network/JPEGImages/00302.jpg 404,48,568,203,2
+../datasets/test_network/JPEGImages/01883.jpg 395,28,559,142,14
+../datasets/test_network/JPEGImages/04754.jpg 249,1,376,84,29
+../datasets/test_network/JPEGImages/03663.jpg 171,96,312,246,23
+../datasets/test_network/JPEGImages/00612.jpg 210,12,291,249,4
+../datasets/test_network/JPEGImages/01938.jpg 157,185,292,325,15
+../datasets/test_network/JPEGImages/05764.jpg 391,1,528,111,23 215,12,373,187,14
+../datasets/test_network/JPEGImages/00604.jpg 447,1,555,219,4
+../datasets/test_network/JPEGImages/05517.jpg 350,185,495,339,14
+../datasets/test_network/JPEGImages/05067.jpg 242,66,300,263,25 344,130,539,239,10
+../datasets/test_network/JPEGImages/04741.jpg 197,181,249,292,29
+../datasets/test_network/JPEGImages/05485.jpg 270,1,487,176,12 183,203,341,276,26
+../datasets/test_network/JPEGImages/00932.jpg 96,1,383,202,7
+../datasets/test_network/JPEGImages/03999.jpg 213,147,406,237,25
+../datasets/test_network/JPEGImages/01350.jpg 397,1,475,118,10
+../datasets/test_network/JPEGImages/06858.jpg 337,1,533,173,9 140,108,352,264,30 337,193,506,335,15
+../datasets/test_network/JPEGImages/04689.jpg 446,123,579,226,29
+../datasets/test_network/JPEGImages/05158.jpg 140,83,410,293,16 213,1,327,88,10 328,1,526,178,4 426,184,519,260,27
+../datasets/test_network/JPEGImages/05972.jpg 157,5,213,89,18 163,148,333,312,6
+../datasets/test_network/JPEGImages/03822.jpg 366,128,531,226,24
+../datasets/test_network/JPEGImages/02964.jpg 446,56,532,133,19
+../datasets/test_network/JPEGImages/00318.jpg 392,39,596,214,2
+../datasets/test_network/JPEGImages/01322.jpg 187,1,370,93,10
+../datasets/test_network/JPEGImages/00007.jpg 115,30,316,300,0
+../datasets/test_network/JPEGImages/04578.jpg 268,167,319,322,28
+../datasets/test_network/JPEGImages/04159.jpg 342,224,418,379,26
+../datasets/test_network/JPEGImages/05116.jpg 175,80,340,246,10 435,101,474,280,25 154,1,446,183,11 190,241,261,346,4
+../datasets/test_network/JPEGImages/06424.jpg 110,3,292,57,2 271,1,583,202,8 238,189,327,266,19
+../datasets/test_network/JPEGImages/01912.jpg 340,224,426,375,15
+../datasets/test_network/JPEGImages/01209.jpg 451,1,534,88,10
+../datasets/test_network/JPEGImages/06143.jpg 214,52,369,179,20 187,165,242,270,29
+../datasets/test_network/JPEGImages/05469.jpg 312,13,470,128,21 101,87,349,275,12 366,157,500,271,26
+../datasets/test_network/JPEGImages/02503.jpg 395,259,474,331,18
+../datasets/test_network/JPEGImages/04391.jpg 420,1,521,191,27
+../datasets/test_network/JPEGImages/00462.jpg 401,183,482,328,3
+../datasets/test_network/JPEGImages/01446.jpg 378,1,581,258,12
+../datasets/test_network/JPEGImages/05006.jpg 189,1,437,148,30
+../datasets/test_network/JPEGImages/03285.jpg 311,1,415,106,21
+../datasets/test_network/JPEGImages/03545.jpg 164,217,281,317,23
+../datasets/test_network/JPEGImages/05193.jpg 318,42,492,254,4 338,1,434,80,25 135,40,387,292,16
+../datasets/test_network/JPEGImages/05438.jpg 210,1,515,170,16 135,1,248,162,27 370,201,468,310,25 150,160,331,305,11
+../datasets/test_network/JPEGImages/01775.jpg 146,106,264,246,14
+../datasets/test_network/JPEGImages/05742.jpg 109,1,265,102,13 351,148,469,296,21 283,1,502,150,12
+../datasets/test_network/JPEGImages/03369.jpg 208,172,351,313,22
+../datasets/test_network/JPEGImages/06130.jpg 291,148,475,285,6
+../datasets/test_network/JPEGImages/04100.jpg 108,4,274,86,26
+../datasets/test_network/JPEGImages/05993.jpg 325,1,495,174,17 172,138,311,292,20 325,230,373,294,18
+../datasets/test_network/JPEGImages/00154.jpg 356,1,569,285,1
+../datasets/test_network/JPEGImages/03964.jpg 345,22,582,63,25
+../datasets/test_network/JPEGImages/06485.jpg 282,71,365,183,19 403,15,560,157,2
+../datasets/test_network/JPEGImages/04485.jpg 126,62,274,192,28
+../datasets/test_network/JPEGImages/00804.jpg 157,1,349,156,6
+../datasets/test_network/JPEGImages/01053.jpg 121,126,299,296,9
+../datasets/test_network/JPEGImages/06699.jpg 330,107,562,264,8 348,1,446,70,19
+../datasets/test_network/JPEGImages/03725.jpg 147,55,288,199,24
+../datasets/test_network/JPEGImages/04172.jpg 386,27,580,149,26
+../datasets/test_network/JPEGImages/02521.jpg 290,85,356,168,18
+../datasets/test_network/JPEGImages/04940.jpg 348,1,488,135,30
+../datasets/test_network/JPEGImages/01552.jpg 298,1,470,157,13
+../datasets/test_network/JPEGImages/02254.jpg 417,1,599,220,16
+../datasets/test_network/JPEGImages/03667.jpg 396,130,516,254,23
+../datasets/test_network/JPEGImages/02062.jpg 197,100,279,271,15
+../datasets/test_network/JPEGImages/06994.jpg 374,29,463,199,24 174,89,350,226,15
+../datasets/test_network/JPEGImages/05869.jpg 423,89,544,217,23 122,7,422,276,12
+../datasets/test_network/JPEGImages/04166.jpg 185,163,277,318,26
+../datasets/test_network/JPEGImages/01277.jpg 349,1,429,171,10
+../datasets/test_network/JPEGImages/02783.jpg 274,200,343,277,19
+../datasets/test_network/JPEGImages/02906.jpg 257,42,324,125,19
+../datasets/test_network/JPEGImages/04749.jpg 414,59,552,112,29
+../datasets/test_network/JPEGImages/00584.jpg 191,126,384,322,4
+../datasets/test_network/JPEGImages/05257.jpg 258,1,451,225,16 199,166,331,306,27
+../datasets/test_network/JPEGImages/00510.jpg 219,239,432,327,4
+../datasets/test_network/JPEGImages/01893.jpg 133,83,268,191,14
+../datasets/test_network/JPEGImages/04284.jpg 378,1,524,98,27
+../datasets/test_network/JPEGImages/04580.jpg 263,44,320,218,28
+../datasets/test_network/JPEGImages/00672.jpg 415,101,590,237,5
+../datasets/test_network/JPEGImages/07054.jpg 370,1,600,213,9 189,69,353,288,30 419,240,504,316,15
+../datasets/test_network/JPEGImages/07106.jpg 170,40,436,282,7 411,98,583,319,30
+../datasets/test_network/JPEGImages/03182.jpg 158,147,260,287,21
+../datasets/test_network/JPEGImages/02623.jpg 425,165,492,241,18
+../datasets/test_network/JPEGImages/02795.jpg 243,163,318,230,19
+../datasets/test_network/JPEGImages/05318.jpg 276,39,468,130,10 266,151,412,275,27 419,194,505,298,25 111,111,269,278,16
+../datasets/test_network/JPEGImages/06458.jpg 154,79,313,233,2 391,6,495,86,19
+../datasets/test_network/JPEGImages/06669.jpg 396,1,608,180,2 355,131,425,226,19 214,116,362,264,22
+../datasets/test_network/JPEGImages/01644.jpg 126,1,250,130,13
+../datasets/test_network/JPEGImages/03078.jpg 385,1,562,173,20
+../datasets/test_network/JPEGImages/06548.jpg 150,1,360,166,0 242,226,325,366,2 303,201,439,310,28 401,82,487,131,19
+../datasets/test_network/JPEGImages/07193.jpg 354,1,551,152,7 188,139,370,274,9 375,212,519,309,15
+../datasets/test_network/JPEGImages/02002.jpg 369,170,547,326,15
+../datasets/test_network/JPEGImages/04549.jpg 226,184,271,343,28
+../datasets/test_network/JPEGImages/05023.jpg 294,121,557,244,16 174,1,420,106,4
+../datasets/test_network/JPEGImages/02703.jpg 346,218,403,296,19
+../datasets/test_network/JPEGImages/06301.jpg 207,1,337,77,3 394,1,518,68,29 165,67,333,215,17 231,207,334,340,20 324,185,500,339,6
+../datasets/test_network/JPEGImages/00089.jpg 309,1,517,200,0
+../datasets/test_network/JPEGImages/07271.jpg 173,137,322,337,7
+../datasets/test_network/JPEGImages/02185.jpg 292,1,585,279,16
+../datasets/test_network/JPEGImages/05415.jpg 286,19,520,186,4 170,1,305,163,25
+../datasets/test_network/JPEGImages/00571.jpg 218,72,327,289,4
+../datasets/test_network/JPEGImages/01961.jpg 360,153,541,303,15
+../datasets/test_network/JPEGImages/04470.jpg 262,1,312,137,28
+../datasets/test_network/JPEGImages/04179.jpg 122,134,280,207,26
+../datasets/test_network/JPEGImages/03029.jpg 351,89,515,252,20
+../datasets/test_network/JPEGImages/01360.jpg 157,36,319,218,10
+../datasets/test_network/JPEGImages/03526.jpg 153,52,304,208,23
+../datasets/test_network/JPEGImages/04156.jpg 461,92,549,252,26
+../datasets/test_network/JPEGImages/01855.jpg 273,59,434,220,14
+../datasets/test_network/JPEGImages/02494.jpg 151,91,197,166,18
+../datasets/test_network/JPEGImages/00648.jpg 315,1,474,146,5
+../datasets/test_network/JPEGImages/04049.jpg 158,55,291,223,26
+../datasets/test_network/JPEGImages/00892.jpg 125,1,295,230,7
+../datasets/test_network/JPEGImages/05381.jpg 301,1,524,178,16 263,1,319,140,25 177,32,264,215,10
+../datasets/test_network/JPEGImages/00620.jpg 254,87,494,184,4
+../datasets/test_network/JPEGImages/00308.jpg 386,141,530,284,2
+../datasets/test_network/JPEGImages/04951.jpg 349,138,567,260,30
+../datasets/test_network/JPEGImages/04338.jpg 399,1,539,135,27
+../datasets/test_network/JPEGImages/03098.jpg 140,1,281,93,20
+../datasets/test_network/JPEGImages/06706.jpg 159,1,362,162,0
+../datasets/test_network/JPEGImages/01229.jpg 235,1,411,148,10
+../datasets/test_network/JPEGImages/06178.jpg 439,1,508,127,29 205,1,410,154,6
+../datasets/test_network/JPEGImages/00492.jpg 186,48,290,281,4
+../datasets/test_network/JPEGImages/03666.jpg 391,179,511,303,23
+../datasets/test_network/JPEGImages/01078.jpg 320,1,585,196,9
+../datasets/test_network/JPEGImages/05799.jpg 399,1,566,130,21 268,54,426,210,26
+../datasets/test_network/JPEGImages/02032.jpg 131,1,313,74,15
+../datasets/test_network/JPEGImages/05548.jpg 161,1,304,110,23
+../datasets/test_network/JPEGImages/06759.jpg 210,105,294,271,28 298,62,555,262,0
+../datasets/test_network/JPEGImages/04437.jpg 393,123,579,187,28
+../datasets/test_network/JPEGImages/00960.jpg 172,81,445,257,8
+../datasets/test_network/JPEGImages/00179.jpg 118,1,429,222,1
+../datasets/test_network/JPEGImages/01639.jpg 200,1,323,93,13
+../datasets/test_network/JPEGImages/02827.jpg 528,46,586,130,19
+../datasets/test_network/JPEGImages/01236.jpg 366,174,555,247,10
+../datasets/test_network/JPEGImages/01581.jpg 302,73,466,240,13
+../datasets/test_network/JPEGImages/04707.jpg 290,55,402,163,29
+../datasets/test_network/JPEGImages/06008.jpg 189,1,352,104,20 269,98,320,213,29 412,68,472,155,18
+../datasets/test_network/JPEGImages/04964.jpg 125,64,336,198,30
+../datasets/test_network/JPEGImages/06407.jpg 127,5,422,215,0
+../datasets/test_network/JPEGImages/00151.jpg 113,1,427,296,1
+../datasets/test_network/JPEGImages/02084.jpg 381,228,502,319,15
+../datasets/test_network/JPEGImages/01715.jpg 270,26,431,198,14
+../datasets/test_network/JPEGImages/01710.jpg 385,1,559,154,14
+../datasets/test_network/JPEGImages/01299.jpg 272,4,441,196,10
+../datasets/test_network/JPEGImages/02380.jpg 389,196,561,345,17
+../datasets/test_network/JPEGImages/01717.jpg 182,209,331,343,14
+../datasets/test_network/JPEGImages/02478.jpg 237,166,285,243,18
+../datasets/test_network/JPEGImages/01491.jpg 297,1,494,276,12
+../datasets/test_network/JPEGImages/05468.jpg 312,83,469,183,21 102,150,351,324,12
+../datasets/test_network/JPEGImages/05654.jpg 177,1,339,116,5 384,204,529,319,14 191,152,384,301,12
+../datasets/test_network/JPEGImages/02386.jpg 298,165,474,318,17
+../datasets/test_network/JPEGImages/06342.jpg 175,1,301,130,17 426,1,512,69,18 397,47,461,174,29 205,206,310,336,20 311,158,493,331,6
+../datasets/test_network/JPEGImages/00561.jpg 120,4,331,203,4
+../datasets/test_network/JPEGImages/02391.jpg 174,155,341,306,17
+../datasets/test_network/JPEGImages/00550.jpg 134,137,361,216,4
+../datasets/test_network/JPEGImages/05273.jpg 169,37,326,192,27 286,153,533,264,11 167,173,302,323,10
+../datasets/test_network/JPEGImages/06369.jpg 187,32,336,166,22 336,29,526,317,0
+../datasets/test_network/JPEGImages/05037.jpg 316,1,521,215,16 213,158,299,249,27
+../datasets/test_network/JPEGImages/04286.jpg 219,1,393,157,27
+../datasets/test_network/JPEGImages/04895.jpg 230,151,447,341,30
+../datasets/test_network/JPEGImages/05858.jpg 126,1,386,192,12 392,35,548,200,23
+../datasets/test_network/JPEGImages/06660.jpg 226,133,390,298,2 370,1,541,150,22
+../datasets/test_network/JPEGImages/02743.jpg 247,91,317,171,19
+../datasets/test_network/JPEGImages/00946.jpg 122,1,318,199,8
+../datasets/test_network/JPEGImages/06743.jpg 422,48,514,138,19 135,1,420,200,8
+../datasets/test_network/JPEGImages/03046.jpg 244,1,391,90,20
+../datasets/test_network/JPEGImages/00738.jpg 296,60,426,216,5
+../datasets/test_network/JPEGImages/02211.jpg 303,1,602,203,16
+../datasets/test_network/JPEGImages/01602.jpg 307,104,437,230,13
+../datasets/test_network/JPEGImages/05479.jpg 354,1,512,151,23 228,81,380,213,14
+../datasets/test_network/JPEGImages/06857.jpg 338,1,533,229,9 152,164,352,311,30
+../datasets/test_network/JPEGImages/01807.jpg 141,92,282,214,14
+../datasets/test_network/JPEGImages/03713.jpg 301,63,455,208,24
+../datasets/test_network/JPEGImages/03944.jpg 184,111,234,303,25
+../datasets/test_network/JPEGImages/02541.jpg 491,127,568,204,18
+../datasets/test_network/JPEGImages/06767.jpg 169,108,343,267,8
+../datasets/test_network/JPEGImages/06793.jpg 129,171,368,255,8 374,1,528,120,2 238,1,371,103,22
+../datasets/test_network/JPEGImages/05412.jpg 133,6,312,97,27 338,1,518,118,16 243,101,431,196,10 184,149,312,314,25
+../datasets/test_network/JPEGImages/00283.jpg 447,94,623,244,2
+../datasets/test_network/JPEGImages/06878.jpg 178,1,337,164,7 445,59,551,220,24 262,167,435,256,9
+../datasets/test_network/JPEGImages/05720.jpg 204,103,349,254,23 348,58,518,233,14
+../datasets/test_network/JPEGImages/04037.jpg 210,4,386,160,25
+../datasets/test_network/JPEGImages/03491.jpg 209,110,356,259,22
+../datasets/test_network/JPEGImages/02444.jpg 533,14,596,105,18
+../datasets/test_network/JPEGImages/04450.jpg 398,3,540,175,28
+../datasets/test_network/JPEGImages/05768.jpg 164,19,335,98,26 364,1,577,259,12 232,119,370,249,13
+../datasets/test_network/JPEGImages/04087.jpg 151,40,246,210,26
+../datasets/test_network/JPEGImages/00475.jpg 226,81,462,164,4
+../datasets/test_network/JPEGImages/03480.jpg 164,182,284,304,22
+../datasets/test_network/JPEGImages/07165.jpg 142,86,356,292,7
+../datasets/test_network/JPEGImages/01060.jpg 137,89,360,307,9
+../datasets/test_network/JPEGImages/05659.jpg 386,1,563,48,14 127,1,357,163,12
+../datasets/test_network/JPEGImages/06421.jpg 273,1,584,144,0 114,128,291,263,2 266,100,576,250,8
+../datasets/test_network/JPEGImages/00757.jpg 313,142,450,312,6
+../datasets/test_network/JPEGImages/00156.jpg 361,1,575,188,1
+../datasets/test_network/JPEGImages/02041.jpg 261,70,427,243,15
+../datasets/test_network/JPEGImages/05918.jpg 322,1,366,91,18 374,1,522,121,17 222,186,368,317,20
+../datasets/test_network/JPEGImages/02610.jpg 161,237,232,294,18
+../datasets/test_network/JPEGImages/02937.jpg 230,205,307,274,19
+../datasets/test_network/JPEGImages/01384.jpg 339,1,512,229,11
+../datasets/test_network/JPEGImages/03524.jpg 161,158,307,303,23
+../datasets/test_network/JPEGImages/02203.jpg 180,1,480,222,16
+../datasets/test_network/JPEGImages/01502.jpg 287,53,588,295,12
+../datasets/test_network/JPEGImages/06776.jpg 124,1,403,108,0 450,1,522,146,28 128,102,304,279,2 293,109,470,275,22
+../datasets/test_network/JPEGImages/06341.jpg 177,21,302,194,17 396,110,457,231,29 425,58,502,133,18
+../datasets/test_network/JPEGImages/05233.jpg 201,60,340,223,27 352,1,530,193,16
+../datasets/test_network/JPEGImages/03028.jpg 351,145,510,297,20
+../datasets/test_network/JPEGImages/07011.jpg 137,1,348,260,7 341,120,545,272,9
+../datasets/test_network/JPEGImages/04178.jpg 132,193,285,257,26
+../datasets/test_network/JPEGImages/05645.jpg 184,1,439,133,12 197,199,322,319,21
+../datasets/test_network/JPEGImages/04907.jpg 334,1,586,198,30
+../datasets/test_network/JPEGImages/06082.jpg 192,1,429,57,3
+../datasets/test_network/JPEGImages/02866.jpg 298,199,377,269,19
+../datasets/test_network/JPEGImages/06061.jpg 148,1,296,168,6 356,124,527,301,17 302,252,375,301,18
+../datasets/test_network/JPEGImages/01345.jpg 176,1,349,125,10
+../datasets/test_network/JPEGImages/06905.jpg 182,22,370,229,9 373,96,530,314,30
+../datasets/test_network/JPEGImages/04320.jpg 127,54,299,128,27
+../datasets/test_network/JPEGImages/06020.jpg 232,1,392,104,20 165,97,390,176,3 399,104,490,213,29
+../datasets/test_network/JPEGImages/05633.jpg 222,1,374,98,21 207,130,342,255,23 361,150,540,233,26
+../datasets/test_network/JPEGImages/06532.jpg 127,1,277,130,22 217,64,513,313,0 199,230,337,302,28
+../datasets/test_network/JPEGImages/06691.jpg 366,1,578,216,0 168,108,350,189,28 120,1,393,120,8
+../datasets/test_network/JPEGImages/05306.jpg 340,1,531,144,10 221,8,360,185,27
+../datasets/test_network/JPEGImages/00076.jpg 256,1,594,223,0
+../datasets/test_network/JPEGImages/00810.jpg 305,13,448,196,6
+../datasets/test_network/JPEGImages/05383.jpg 272,76,513,191,4 179,1,257,108,10
+../datasets/test_network/JPEGImages/06912.jpg 177,35,390,269,7 448,142,529,249,24
+../datasets/test_network/JPEGImages/02615.jpg 485,226,563,309,18
+../datasets/test_network/JPEGImages/01542.jpg 110,35,234,158,13
+../datasets/test_network/JPEGImages/02842.jpg 453,224,538,304,19
+../datasets/test_network/JPEGImages/05723.jpg 190,1,353,94,23 400,253,499,304,13 187,113,384,262,12
+../datasets/test_network/JPEGImages/06331.jpg 343,1,541,177,6 165,19,321,170,20
+../datasets/test_network/JPEGImages/05537.jpg 391,40,554,204,5 261,154,387,260,13
+../datasets/test_network/JPEGImages/07179.jpg 312,24,523,261,7
+../datasets/test_network/JPEGImages/05627.jpg 393,185,517,326,14 140,1,441,270,12
+../datasets/test_network/JPEGImages/05738.jpg 248,1,393,84,14 298,64,556,310,12 144,177,277,320,13
+../datasets/test_network/JPEGImages/02622.jpg 423,206,493,288,18
+../datasets/test_network/JPEGImages/03479.jpg 236,1,373,124,22
+../datasets/test_network/JPEGImages/02403.jpg 400,255,483,300,18
+../datasets/test_network/JPEGImages/02443.jpg 540,39,599,125,18
+../datasets/test_network/JPEGImages/06802.jpg 246,1,453,124,0 214,124,381,182,28 410,112,544,251,22
+../datasets/test_network/JPEGImages/01013.jpg 144,1,419,277,8
+../datasets/test_network/JPEGImages/04478.jpg 419,1,576,153,28
+../datasets/test_network/JPEGImages/02738.jpg 175,59,250,105,19
+../datasets/test_network/JPEGImages/04755.jpg 156,141,247,254,29
+../datasets/test_network/JPEGImages/00311.jpg 210,126,379,297,2
+../datasets/test_network/JPEGImages/04201.jpg 280,17,371,202,26
+../datasets/test_network/JPEGImages/01813.jpg 376,35,550,208,14
+../datasets/test_network/JPEGImages/04959.jpg 237,1,462,142,30
+../datasets/test_network/JPEGImages/00759.jpg 315,31,453,219,6
+../datasets/test_network/JPEGImages/01970.jpg 157,215,255,304,15
+../datasets/test_network/JPEGImages/04327.jpg 176,123,320,265,27
+../datasets/test_network/JPEGImages/06897.jpg 204,31,392,159,15
+../datasets/test_network/JPEGImages/03975.jpg 456,135,499,330,25
+../datasets/test_network/JPEGImages/03616.jpg 179,1,333,133,23
+../datasets/test_network/JPEGImages/02611.jpg 159,194,235,254,18
+../datasets/test_network/JPEGImages/01025.jpg 404,1,616,174,9
+../datasets/test_network/JPEGImages/04373.jpg 161,9,293,187,27
+../datasets/test_network/JPEGImages/05846.jpg 400,1,589,103,26 270,91,421,245,23
+../datasets/test_network/JPEGImages/06305.jpg 216,1,333,139,20 318,1,524,156,6 197,184,275,235,18
+../datasets/test_network/JPEGImages/06833.jpg 322,1,598,171,9 290,187,482,276,15 134,13,360,201,30
+../datasets/test_network/JPEGImages/03296.jpg 190,180,330,318,21
+../datasets/test_network/JPEGImages/03638.jpg 397,143,527,260,23
+../datasets/test_network/JPEGImages/00120.jpg 133,1,356,247,1
+../datasets/test_network/JPEGImages/06791.jpg 239,74,370,209,22 374,107,518,246,2
+../datasets/test_network/JPEGImages/00487.jpg 398,128,482,352,4
+../datasets/test_network/JPEGImages/06560.jpg 142,1,310,108,2 314,5,440,179,28 341,166,531,288,8
+../datasets/test_network/JPEGImages/05552.jpg 349,1,540,116,5 213,35,346,191,13
+../datasets/test_network/JPEGImages/07049.jpg 365,1,506,128,24 162,33,420,265,7
+../datasets/test_network/JPEGImages/05762.jpg 392,108,522,226,23 223,132,372,291,14
+../datasets/test_network/JPEGImages/02024.jpg 258,121,441,204,15
+../datasets/test_network/JPEGImages/00876.jpg 107,68,353,238,7
+../datasets/test_network/JPEGImages/02775.jpg 368,260,452,321,19
+../datasets/test_network/JPEGImages/00414.jpg 416,161,499,302,3
+../datasets/test_network/JPEGImages/02017.jpg 350,216,538,291,15
+../datasets/test_network/JPEGImages/07112.jpg 172,91,380,314,9 388,206,459,346,24
+../datasets/test_network/JPEGImages/06029.jpg 169,228,247,363,3
+../datasets/test_network/JPEGImages/00613.jpg 200,1,291,195,4
+../datasets/test_network/JPEGImages/00546.jpg 314,159,558,239,4
+../datasets/test_network/JPEGImages/02945.jpg 452,94,532,182,19
+../datasets/test_network/JPEGImages/00754.jpg 446,101,597,277,6
+../datasets/test_network/JPEGImages/00024.jpg 259,1,579,291,0
+../datasets/test_network/JPEGImages/00749.jpg 403,29,589,168,5
+../datasets/test_network/JPEGImages/03236.jpg 280,173,384,313,21
+../datasets/test_network/JPEGImages/04839.jpg 156,92,371,301,30
+../datasets/test_network/JPEGImages/01825.jpg 135,1,290,143,14
+../datasets/test_network/JPEGImages/01548.jpg 399,1,581,127,13
+../datasets/test_network/JPEGImages/05965.jpg 249,1,379,124,6 440,1,503,63,29 218,155,440,240,3 237,231,355,344,20 392,221,520,302,17
+../datasets/test_network/JPEGImages/02847.jpg 494,236,585,310,19
+../datasets/test_network/JPEGImages/02182.jpg 132,1,324,280,16
+../datasets/test_network/JPEGImages/05400.jpg 331,88,486,275,10 151,1,440,160,16
+../datasets/test_network/JPEGImages/00668.jpg 388,1,603,153,5
+../datasets/test_network/JPEGImages/02803.jpg 356,43,432,123,19
+../datasets/test_network/JPEGImages/03546.jpg 156,169,276,272,23
+../datasets/test_network/JPEGImages/00382.jpg 416,1,505,160,3
+../datasets/test_network/JPEGImages/04774.jpg 282,215,399,268,29
+../datasets/test_network/JPEGImages/04111.jpg 123,94,286,172,26
+../datasets/test_network/JPEGImages/06503.jpg 152,1,434,211,8 433,58,570,204,22
+../datasets/test_network/JPEGImages/03084.jpg 202,1,361,119,20
+../datasets/test_network/JPEGImages/02831.jpg 456,219,547,271,19
+../datasets/test_network/JPEGImages/04489.jpg 487,1,557,176,28
+../datasets/test_network/JPEGImages/05652.jpg 389,21,547,181,13 183,88,334,236,5
+../datasets/test_network/JPEGImages/05559.jpg 363,109,520,266,23 141,37,296,190,21
+../datasets/test_network/JPEGImages/04335.jpg 120,1,280,126,27
+../datasets/test_network/JPEGImages/03292.jpg 373,131,538,272,21
+../datasets/test_network/JPEGImages/04819.jpg 420,5,577,244,30
+../datasets/test_network/JPEGImages/05371.jpg 179,151,313,311,25 143,60,320,176,10 283,11,470,90,27 292,64,591,294,16
+../datasets/test_network/JPEGImages/04855.jpg 121,22,334,186,30
+../datasets/test_network/JPEGImages/01566.jpg 279,118,402,244,13
+../datasets/test_network/JPEGImages/03865.jpg 239,1,406,135,25
+../datasets/test_network/JPEGImages/05167.jpg 285,50,334,257,25 396,1,486,196,10 183,218,265,303,4
+../datasets/test_network/JPEGImages/06870.jpg 345,1,554,96,9 358,155,505,326,15 156,114,372,322,30
+../datasets/test_network/JPEGImages/06075.jpg 131,1,307,131,17 195,127,267,201,18
+../datasets/test_network/JPEGImages/06945.jpg 265,1,439,125,15 387,151,517,286,30 167,106,359,306,9
+../datasets/test_network/JPEGImages/01974.jpg 133,1,299,170,15
+../datasets/test_network/JPEGImages/03831.jpg 312,2,450,164,24
+../datasets/test_network/JPEGImages/02129.jpg 188,108,365,237,15
+../datasets/test_network/JPEGImages/05477.jpg 236,191,378,309,14 356,113,502,258,23
+../datasets/test_network/JPEGImages/01636.jpg 204,112,326,241,13
+../datasets/test_network/JPEGImages/00134.jpg 147,1,388,176,1
+../datasets/test_network/JPEGImages/03571.jpg 414,1,535,133,23
+../datasets/test_network/JPEGImages/06464.jpg 263,1,577,246,8 147,117,276,254,22
+../datasets/test_network/JPEGImages/02232.jpg 222,74,526,328,16
+../datasets/test_network/JPEGImages/02069.jpg 347,32,537,210,15
+../datasets/test_network/JPEGImages/02432.jpg 136,249,207,287,18
+../datasets/test_network/JPEGImages/02830.jpg 457,268,543,319,19
+../datasets/test_network/JPEGImages/06422.jpg 343,1,478,99,0 114,32,294,186,2 270,26,577,255,8
+../datasets/test_network/JPEGImages/00272.jpg 154,105,316,270,2
+../datasets/test_network/JPEGImages/02104.jpg 417,202,494,323,15
+../datasets/test_network/JPEGImages/01410.jpg 211,76,476,266,11
+../datasets/test_network/JPEGImages/01237.jpg 367,119,560,192,10
+../datasets/test_network/JPEGImages/05394.jpg 431,99,524,263,27 324,1,425,201,25 119,1,351,226,11
+../datasets/test_network/JPEGImages/05834.jpg 397,64,542,199,23
+../datasets/test_network/JPEGImages/05524.jpg 220,1,388,87,26 414,1,545,102,23 246,154,383,255,21
+../datasets/test_network/JPEGImages/00162.jpg 259,7,593,309,1
+../datasets/test_network/JPEGImages/06607.jpg 160,107,279,242,22 331,195,428,352,2
+../datasets/test_network/JPEGImages/03275.jpg 415,200,524,338,21
+../datasets/test_network/JPEGImages/00100.jpg 330,1,531,215,0
+../datasets/test_network/JPEGImages/02258.jpg 267,1,445,252,16
+../datasets/test_network/JPEGImages/07301.jpg 153,1,347,179,7 355,7,565,214,9
+../datasets/test_network/JPEGImages/02431.jpg 138,289,209,327,18
+../datasets/test_network/JPEGImages/04987.jpg 353,1,586,126,30
+../datasets/test_network/JPEGImages/04351.jpg 174,167,335,244,27
+../datasets/test_network/JPEGImages/01044.jpg 135,1,370,218,9
+../datasets/test_network/JPEGImages/05925.jpg 141,1,272,136,3 373,110,513,275,17
+../datasets/test_network/JPEGImages/03120.jpg 362,119,528,269,20
+../datasets/test_network/JPEGImages/00003.jpg 385,1,606,159,0
+../datasets/test_network/JPEGImages/00631.jpg 146,1,301,109,5
+../datasets/test_network/JPEGImages/02419.jpg 230,182,308,233,18
+../datasets/test_network/JPEGImages/03259.jpg 394,62,550,169,21
+../datasets/test_network/JPEGImages/02188.jpg 217,1,452,278,16
+../datasets/test_network/JPEGImages/03821.jpg 362,187,528,268,24
+../datasets/test_network/JPEGImages/00249.jpg 208,139,368,311,2
+../datasets/test_network/JPEGImages/04934.jpg 430,1,566,217,30
+../datasets/test_network/JPEGImages/01177.jpg 377,1,575,90,10
+../datasets/test_network/JPEGImages/02214.jpg 219,91,503,278,16
+../datasets/test_network/JPEGImages/01737.jpg 154,62,298,182,14
+../datasets/test_network/JPEGImages/05195.jpg 353,1,513,131,4 121,1,391,212,16 342,156,524,262,11
+../datasets/test_network/JPEGImages/02438.jpg 533,273,591,350,18
+../datasets/test_network/JPEGImages/01745.jpg 388,1,555,98,14
+../datasets/test_network/JPEGImages/02248.jpg 133,35,318,301,16
+../datasets/test_network/JPEGImages/04835.jpg 342,24,591,259,30
+../datasets/test_network/JPEGImages/04524.jpg 150,119,220,276,28
+../datasets/test_network/JPEGImages/00920.jpg 101,3,373,262,7
+../datasets/test_network/JPEGImages/07202.jpg 338,9,581,245,30 185,147,359,280,7
+../datasets/test_network/JPEGImages/06845.jpg 151,85,340,257,9 282,1,506,157,7 354,98,561,325,30
+../datasets/test_network/JPEGImages/01024.jpg 402,15,606,224,9
+../datasets/test_network/JPEGImages/02640.jpg 273,89,352,158,18
+../datasets/test_network/JPEGImages/00642.jpg 247,110,384,246,5
+../datasets/test_network/JPEGImages/05992.jpg 173,1,291,110,3 330,37,486,231,17
+../datasets/test_network/JPEGImages/01467.jpg 207,43,494,328,12
+../datasets/test_network/JPEGImages/03082.jpg 211,62,361,219,20
+../datasets/test_network/JPEGImages/02064.jpg 190,1,276,172,15
+../datasets/test_network/JPEGImages/03228.jpg 198,66,353,223,21
+../datasets/test_network/JPEGImages/01504.jpg 284,1,599,233,12
+../datasets/test_network/JPEGImages/06941.jpg 165,1,393,101,7 411,71,543,223,24 277,173,443,319,15
+../datasets/test_network/JPEGImages/05817.jpg 258,125,423,291,5
+../datasets/test_network/JPEGImages/07001.jpg 342,1,579,145,7 172,1,337,143,9 210,167,431,295,30
+../datasets/test_network/JPEGImages/04089.jpg 393,177,573,256,26
+../datasets/test_network/JPEGImages/01009.jpg 259,39,560,313,8
+../datasets/test_network/JPEGImages/01727.jpg 407,1,564,70,14
+../datasets/test_network/JPEGImages/05940.jpg 250,99,301,177,18 308,135,468,267,20
+../datasets/test_network/JPEGImages/00522.jpg 116,122,312,293,4
+../datasets/test_network/JPEGImages/05460.jpg 215,75,358,227,13 351,104,513,262,5
+../datasets/test_network/JPEGImages/00989.jpg 287,1,582,187,8
+../datasets/test_network/JPEGImages/02914.jpg 229,6,305,82,19
+../datasets/test_network/JPEGImages/04290.jpg 118,1,250,141,27
+../datasets/test_network/JPEGImages/00984.jpg 137,18,423,317,8
+../datasets/test_network/JPEGImages/02696.jpg 347,71,430,110,19
+../datasets/test_network/JPEGImages/03257.jpg 390,172,537,266,21
+../datasets/test_network/JPEGImages/01728.jpg 282,246,413,342,14
+../datasets/test_network/JPEGImages/05289.jpg 192,42,379,251,4
+../datasets/test_network/JPEGImages/07237.jpg 351,1,558,162,9
+../datasets/test_network/JPEGImages/02039.jpg 269,181,427,325,15
+../datasets/test_network/JPEGImages/00174.jpg 256,1,575,322,1
+../datasets/test_network/JPEGImages/01388.jpg 250,1,429,244,11
+../datasets/test_network/JPEGImages/03330.jpg 386,216,495,353,21
+../datasets/test_network/JPEGImages/06537.jpg 156,1,352,180,2
+../datasets/test_network/JPEGImages/00820.jpg 370,59,576,256,6
+../datasets/test_network/JPEGImages/00404.jpg 126,44,357,139,3
+../datasets/test_network/JPEGImages/03980.jpg 371,125,411,315,25
+../datasets/test_network/JPEGImages/05112.jpg 369,148,529,253,27 451,1,553,80,4 217,1,435,122,16
+../datasets/test_network/JPEGImages/03467.jpg 409,89,538,217,22
+../datasets/test_network/JPEGImages/01721.jpg 162,1,327,144,14
+../datasets/test_network/JPEGImages/04605.jpg 374,7,424,137,29
+../datasets/test_network/JPEGImages/07130.jpg 350,249,535,319,15
+../datasets/test_network/JPEGImages/06741.jpg 147,99,420,295,8 416,157,506,254,19
+../datasets/test_network/JPEGImages/05021.jpg 183,83,412,228,4
+../datasets/test_network/JPEGImages/06810.jpg 185,1,357,148,8 359,74,535,237,0
+../datasets/test_network/JPEGImages/00341.jpg 380,113,535,261,2
+../datasets/test_network/JPEGImages/05839.jpg 325,126,421,271,21 167,186,312,303,13 414,184,573,311,14
+../datasets/test_network/JPEGImages/05387.jpg 349,1,444,168,27 125,1,341,194,11
+../datasets/test_network/JPEGImages/04649.jpg 269,81,335,206,29
+../datasets/test_network/JPEGImages/06714.jpg 272,136,547,252,8 354,36,554,101,28 134,19,280,164,22
+../datasets/test_network/JPEGImages/03730.jpg 379,1,520,135,24
+../datasets/test_network/JPEGImages/01499.jpg 123,18,305,272,12
+../datasets/test_network/JPEGImages/01533.jpg 317,35,453,176,13
+../datasets/test_network/JPEGImages/05040.jpg 204,1,313,149,27 295,8,602,291,11 436,237,543,318,10
+../datasets/test_network/JPEGImages/05426.jpg 231,16,522,275,11 174,145,310,299,25 113,1,413,143,16
+../datasets/test_network/JPEGImages/05728.jpg 135,1,320,123,12 225,180,325,329,5 404,1,519,104,13
+../datasets/test_network/JPEGImages/04434.jpg 126,31,263,183,28
+../datasets/test_network/JPEGImages/05891.jpg 146,1,324,151,5 351,157,502,273,14 207,211,325,313,13
+../datasets/test_network/JPEGImages/05274.jpg 157,1,324,130,27 278,91,540,276,11 162,116,301,291,10
+../datasets/test_network/JPEGImages/04158.jpg 470,1,558,149,26
+../datasets/test_network/JPEGImages/00537.jpg 343,1,573,189,4
+../datasets/test_network/JPEGImages/00543.jpg 152,42,321,263,4
+../datasets/test_network/JPEGImages/05504.jpg 176,92,342,229,5 465,142,557,275,13
+../datasets/test_network/JPEGImages/05870.jpg 426,26,547,165,23 115,1,424,228,12
+../datasets/test_network/JPEGImages/04885.jpg 216,1,343,143,30
+../datasets/test_network/JPEGImages/01065.jpg 370,39,578,244,9
+../datasets/test_network/JPEGImages/01836.jpg 348,24,461,178,14
+../datasets/test_network/JPEGImages/03717.jpg 414,75,572,232,24
+../datasets/test_network/JPEGImages/06243.jpg 338,1,500,105,20 253,169,374,226,29 165,1,336,155,6 358,114,441,160,18
+../datasets/test_network/JPEGImages/02533.jpg 164,190,236,256,18
+../datasets/test_network/JPEGImages/02820.jpg 344,88,422,165,19
+../datasets/test_network/JPEGImages/05682.jpg 386,1,536,80,13 171,1,293,60,14
+../datasets/test_network/JPEGImages/03437.jpg 390,183,525,294,22
+../datasets/test_network/JPEGImages/06970.jpg 245,8,433,145,15 170,170,342,272,9
+../datasets/test_network/JPEGImages/07190.jpg 157,44,298,187,24 326,83,516,273,7
+../datasets/test_network/JPEGImages/05562.jpg 254,39,431,184,26 361,1,527,106,23
+../datasets/test_network/JPEGImages/05672.jpg 235,48,374,192,23 204,1,355,42,21 395,1,565,86,5
+../datasets/test_network/JPEGImages/03790.jpg 338,51,454,217,24
+../datasets/test_network/JPEGImages/03139.jpg 352,124,521,277,20
+../datasets/test_network/JPEGImages/04879.jpg 333,1,470,173,30
+../datasets/test_network/JPEGImages/04589.jpg 383,184,569,257,28
+../datasets/test_network/JPEGImages/04665.jpg 298,34,414,139,29
+../datasets/test_network/JPEGImages/06312.jpg 352,49,600,188,3 196,88,362,274,17 391,210,518,262,29
+../datasets/test_network/JPEGImages/02149.jpg 430,60,510,256,15
+../datasets/test_network/JPEGImages/03876.jpg 243,128,448,199,25
+../datasets/test_network/JPEGImages/02790.jpg 394,133,477,178,19
+../datasets/test_network/JPEGImages/01249.jpg 135,74,306,156,10
+../datasets/test_network/JPEGImages/04303.jpg 290,116,391,240,27
+../datasets/test_network/JPEGImages/06168.jpg 259,1,338,44,18
+../datasets/test_network/JPEGImages/01778.jpg 395,194,558,338,14
+../datasets/test_network/JPEGImages/00638.jpg 104,18,280,194,5
+../datasets/test_network/JPEGImages/04777.jpg 270,34,402,103,29
+../datasets/test_network/JPEGImages/05876.jpg 149,1,323,112,5 323,187,479,313,14
+../datasets/test_network/JPEGImages/00803.jpg 159,16,354,206,6
+../datasets/test_network/JPEGImages/05849.jpg 264,1,413,71,23 136,16,419,304,12
+../datasets/test_network/JPEGImages/06221.jpg 307,87,486,229,17
+../datasets/test_network/JPEGImages/05101.jpg 308,169,459,332,10 506,17,591,203,27 150,1,443,247,11
+../datasets/test_network/JPEGImages/01253.jpg 358,99,536,270,10
+../datasets/test_network/JPEGImages/03074.jpg 170,15,274,169,20
+../datasets/test_network/JPEGImages/07212.jpg 211,1,429,115,9 183,139,359,227,15
+../datasets/test_network/JPEGImages/04105.jpg 254,134,426,235,26
+../datasets/test_network/JPEGImages/00284.jpg 444,19,632,183,2
+../datasets/test_network/JPEGImages/05161.jpg 119,1,418,138,16 427,1,571,186,27 259,98,536,301,11
+../datasets/test_network/JPEGImages/03627.jpg 330,173,483,319,23
+../datasets/test_network/JPEGImages/01448.jpg 307,95,501,303,12
+../datasets/test_network/JPEGImages/02301.jpg 231,1,401,161,17
+../datasets/test_network/JPEGImages/02101.jpg 130,1,278,189,15
+../datasets/test_network/JPEGImages/01098.jpg 325,1,597,199,9
+../datasets/test_network/JPEGImages/01343.jpg 175,69,351,237,10
+../datasets/test_network/JPEGImages/02890.jpg 378,223,459,294,19
+../datasets/test_network/JPEGImages/00575.jpg 290,80,533,219,4
+../datasets/test_network/JPEGImages/03002.jpg 460,24,556,100,19
+../datasets/test_network/JPEGImages/05921.jpg 208,10,375,169,20 177,148,311,347,3
+../datasets/test_network/JPEGImages/00357.jpg 361,24,545,259,3
+../datasets/test_network/JPEGImages/06701.jpg 143,157,326,325,0 298,1,586,297,8
+../datasets/test_network/JPEGImages/00974.jpg 216,1,394,239,8
+../datasets/test_network/JPEGImages/02524.jpg 242,232,308,307,18
+../datasets/test_network/JPEGImages/01387.jpg 250,13,427,286,11
+../datasets/test_network/JPEGImages/03920.jpg 287,102,471,239,25
+../datasets/test_network/JPEGImages/03530.jpg 431,200,557,312,23
+../datasets/test_network/JPEGImages/02761.jpg 237,33,280,113,19
+../datasets/test_network/JPEGImages/01412.jpg 203,1,485,187,11
+../datasets/test_network/JPEGImages/04675.jpg 516,1,575,80,29
+../datasets/test_network/JPEGImages/03955.jpg 237,79,450,127,25
+../datasets/test_network/JPEGImages/05595.jpg 187,94,363,339,12 395,69,573,249,5
+../datasets/test_network/JPEGImages/05059.jpg 289,1,464,253,16 126,1,273,189,4
+../datasets/test_network/JPEGImages/05285.jpg 437,1,562,180,25 185,1,477,133,16
+../datasets/test_network/JPEGImages/04149.jpg 227,10,379,175,26
+../datasets/test_network/JPEGImages/03566.jpg 142,1,299,125,23
+../datasets/test_network/JPEGImages/04142.jpg 117,62,278,143,26
+../datasets/test_network/JPEGImages/01719.jpg 173,101,330,248,14
+../datasets/test_network/JPEGImages/00854.jpg 397,52,591,280,7
+../datasets/test_network/JPEGImages/00505.jpg 341,1,602,108,4
+../datasets/test_network/JPEGImages/03714.jpg 300,1,457,155,24
+../datasets/test_network/JPEGImages/00852.jpg 137,33,324,231,6
+../datasets/test_network/JPEGImages/04894.jpg 354,1,595,197,30
+../datasets/test_network/JPEGImages/01453.jpg 201,106,392,339,12
+../datasets/test_network/JPEGImages/03153.jpg 273,157,365,292,20
+../datasets/test_network/JPEGImages/04074.jpg 139,151,275,289,26
+../datasets/test_network/JPEGImages/00255.jpg 86,1,257,135,2
+../datasets/test_network/JPEGImages/03441.jpg 254,208,368,318,22
+../datasets/test_network/JPEGImages/06805.jpg 425,1,556,82,22 221,34,410,183,2 190,172,357,396,8
+../datasets/test_network/JPEGImages/05042.jpg 291,1,619,183,11 392,120,550,299,10 185,105,320,268,25
+../datasets/test_network/JPEGImages/00240.jpg 229,154,368,299,2
+../datasets/test_network/JPEGImages/05601.jpg 357,1,523,114,14 227,80,387,225,21
+../datasets/test_network/JPEGImages/03107.jpg 423,154,526,299,20
+../datasets/test_network/JPEGImages/07036.jpg 187,1,339,103,24 348,100,524,254,7
+../datasets/test_network/JPEGImages/00678.jpg 350,62,535,250,5
+../datasets/test_network/JPEGImages/01560.jpg 442,163,570,289,13
+../datasets/test_network/JPEGImages/04443.jpg 253,1,437,48,28
+../datasets/test_network/JPEGImages/00258.jpg 307,10,492,200,2
+../datasets/test_network/JPEGImages/03700.jpg 110,4,274,119,24
+../datasets/test_network/JPEGImages/01640.jpg 145,202,260,314,13
+../datasets/test_network/JPEGImages/05676.jpg 239,76,540,249,12
+../datasets/test_network/JPEGImages/03949.jpg 354,176,574,218,25
+../datasets/test_network/JPEGImages/03205.jpg 385,1,550,109,21
+../datasets/test_network/JPEGImages/00210.jpg 258,62,469,275,1
+../datasets/test_network/JPEGImages/07171.jpg 349,1,534,152,9 212,30,304,217,15
+../datasets/test_network/JPEGImages/01370.jpg 257,170,387,335,10
+../datasets/test_network/JPEGImages/06638.jpg 276,1,430,87,2 147,36,385,311,8 340,144,476,283,28
+../datasets/test_network/JPEGImages/04067.jpg 417,78,559,246,26
+../datasets/test_network/JPEGImages/02848.jpg 493,187,588,263,19
+../datasets/test_network/JPEGImages/01124.jpg 168,112,391,335,9
+../datasets/test_network/JPEGImages/00919.jpg 110,27,372,296,7
+../datasets/test_network/JPEGImages/05208.jpg 220,108,465,289,11 180,1,333,123,4 306,1,510,94,16
+../datasets/test_network/JPEGImages/05730.jpg 187,28,356,209,5 340,128,506,267,21
+../datasets/test_network/JPEGImages/05687.jpg 398,50,506,214,21 226,77,370,226,5
+../datasets/test_network/JPEGImages/03954.jpg 241,138,447,188,25
+../datasets/test_network/JPEGImages/01754.jpg 168,15,330,184,14
+../datasets/test_network/JPEGImages/03314.jpg 331,16,494,188,21
+../datasets/test_network/JPEGImages/01848.jpg 384,189,543,323,14
+../datasets/test_network/JPEGImages/04040.jpg 362,72,557,228,25
+../datasets/test_network/JPEGImages/03756.jpg 259,145,413,258,24
+../datasets/test_network/JPEGImages/06445.jpg 275,22,432,158,2
+../datasets/test_network/JPEGImages/01574.jpg 152,1,280,126,13
+../datasets/test_network/JPEGImages/06597.jpg 223,1,384,126,2 132,125,392,323,8
+../datasets/test_network/JPEGImages/04115.jpg 463,105,579,250,26
+../datasets/test_network/JPEGImages/03100.jpg 380,93,549,252,20
+../datasets/test_network/JPEGImages/00063.jpg 137,23,427,301,0
+../datasets/test_network/JPEGImages/01008.jpg 192,1,358,161,8
+../datasets/test_network/JPEGImages/06596.jpg 402,1,594,114,22 225,20,377,183,2 140,184,396,371,8
+../datasets/test_network/JPEGImages/06943.jpg 425,1,562,99,24 276,59,451,230,15
+../datasets/test_network/JPEGImages/01529.jpg 316,244,443,311,13
+../datasets/test_network/JPEGImages/04214.jpg 215,87,389,173,26
+../datasets/test_network/JPEGImages/04229.jpg 389,5,469,194,27
+../datasets/test_network/JPEGImages/01294.jpg 247,33,444,161,10
+../datasets/test_network/JPEGImages/06438.jpg 126,1,367,206,8 359,34,512,210,22 341,182,412,259,19
+../datasets/test_network/JPEGImages/01668.jpg 320,47,441,203,14
+../datasets/test_network/JPEGImages/00074.jpg 264,5,578,327,0
+../datasets/test_network/JPEGImages/03051.jpg 130,15,279,130,20
+../datasets/test_network/JPEGImages/01567.jpg 277,62,403,196,13
+../datasets/test_network/JPEGImages/04350.jpg 358,1,483,104,27
+../datasets/test_network/JPEGImages/03045.jpg 245,39,390,142,20
+../datasets/test_network/JPEGImages/05988.jpg 245,1,400,95,6 169,118,277,304,3 442,1,500,66,29
+../datasets/test_network/JPEGImages/01259.jpg 252,84,429,248,10
+../datasets/test_network/JPEGImages/00224.jpg 190,1,335,98,2
+../datasets/test_network/JPEGImages/00268.jpg 184,7,359,188,2
+../datasets/test_network/JPEGImages/03541.jpg 237,173,354,276,23
+../datasets/test_network/JPEGImages/00263.jpg 410,14,576,168,2
+../datasets/test_network/JPEGImages/06682.jpg 102,16,272,204,2 269,91,395,242,22 414,164,468,254,19
+../datasets/test_network/JPEGImages/01418.jpg 93,1,362,139,11
+../datasets/test_network/JPEGImages/00569.jpg 299,1,389,233,4
+../datasets/test_network/JPEGImages/01985.jpg 358,50,433,236,15
+../datasets/test_network/JPEGImages/04834.jpg 343,89,580,307,30
+../datasets/test_network/JPEGImages/02457.jpg 365,123,423,204,18
+../datasets/test_network/JPEGImages/00114.jpg 397,1,592,203,1
+../datasets/test_network/JPEGImages/00144.jpg 270,1,541,242,1
+../datasets/test_network/JPEGImages/00021.jpg 121,62,381,252,0
+../datasets/test_network/JPEGImages/03765.jpg 373,1,523,168,24
+../datasets/test_network/JPEGImages/03924.jpg 161,138,320,273,25
+../datasets/test_network/JPEGImages/03926.jpg 149,17,318,177,25
+../datasets/test_network/JPEGImages/02461.jpg 334,231,377,310,18
+../datasets/test_network/JPEGImages/01408.jpg 322,1,606,173,11
+../datasets/test_network/JPEGImages/03451.jpg 388,147,553,291,22
+../datasets/test_network/JPEGImages/06703.jpg 144,49,353,307,0 297,1,549,199,8
+../datasets/test_network/JPEGImages/00110.jpg 263,1,610,239,0
+../datasets/test_network/JPEGImages/07223.jpg 321,1,430,115,24 408,176,490,319,15 136,2,330,185,9
+../datasets/test_network/JPEGImages/04280.jpg 134,1,227,154,27
+../datasets/test_network/JPEGImages/00265.jpg 352,44,547,236,2
+../datasets/test_network/JPEGImages/03312.jpg 337,129,487,287,21
+../datasets/test_network/JPEGImages/03154.jpg 268,99,364,247,20
+../datasets/test_network/JPEGImages/02602.jpg 268,33,351,99,18
+../datasets/test_network/JPEGImages/04429.jpg 192,78,323,231,28
+../datasets/test_network/JPEGImages/04833.jpg 345,149,572,314,30
+../datasets/test_network/JPEGImages/00596.jpg 288,2,522,185,4
+../datasets/test_network/JPEGImages/04079.jpg 464,38,565,223,26
+../datasets/test_network/JPEGImages/04285.jpg 270,133,388,251,27
+../datasets/test_network/JPEGImages/03428.jpg 133,1,249,104,22
+../datasets/test_network/JPEGImages/05286.jpg 442,1,533,121,25
+../datasets/test_network/JPEGImages/06938.jpg 168,75,392,267,7
+../datasets/test_network/JPEGImages/03642.jpg 266,225,378,325,23
+../datasets/test_network/JPEGImages/06398.jpg 276,1,578,263,8
+../datasets/test_network/JPEGImages/01765.jpg 344,57,454,207,14
+../datasets/test_network/JPEGImages/00963.jpg 257,55,560,343,8
+../datasets/test_network/JPEGImages/00351.jpg 177,181,274,327,3
+../datasets/test_network/JPEGImages/04044.jpg 321,72,478,225,26
+../datasets/test_network/JPEGImages/04506.jpg 150,165,309,226,28
+../datasets/test_network/JPEGImages/00124.jpg 346,1,551,275,1
+../datasets/test_network/JPEGImages/02539.jpg 484,210,563,294,18
+../datasets/test_network/JPEGImages/01476.jpg 325,86,591,274,12
+../datasets/test_network/JPEGImages/01675.jpg 127,1,245,120,14
+../datasets/test_network/JPEGImages/04788.jpg 406,1,534,73,29
+../datasets/test_network/JPEGImages/01366.jpg 425,50,538,241,10
+../datasets/test_network/JPEGImages/01054.jpg 112,73,293,251,9
+../datasets/test_network/JPEGImages/04958.jpg 236,48,456,200,30
+../datasets/test_network/JPEGImages/00708.jpg 427,42,588,203,5
+../datasets/test_network/JPEGImages/05314.jpg 149,1,417,135,11 283,260,456,336,10
+../datasets/test_network/JPEGImages/06835.jpg 295,82,489,164,15 121,1,343,85,30
+../datasets/test_network/JPEGImages/02920.jpg 384,56,458,143,19
+../datasets/test_network/JPEGImages/07010.jpg 143,61,342,300,7
+../datasets/test_network/JPEGImages/02505.jpg 395,175,475,248,18
+../datasets/test_network/JPEGImages/04036.jpg 214,66,386,216,25
+../datasets/test_network/JPEGImages/03724.jpg 152,112,292,247,24
+../datasets/test_network/JPEGImages/05664.jpg 342,96,509,260,14 105,66,371,276,12
+../datasets/test_network/JPEGImages/06829.jpg 221,1,421,219,7 447,1,542,123,24
+../datasets/test_network/JPEGImages/00817.jpg 140,42,268,220,6
+../datasets/test_network/JPEGImages/04537.jpg 161,126,290,258,28
+../datasets/test_network/JPEGImages/04082.jpg 326,158,409,312,26
+../datasets/test_network/JPEGImages/00869.jpg 323,1,577,194,7
+../datasets/test_network/JPEGImages/02604.jpg 218,227,295,293,18
+../datasets/test_network/JPEGImages/02256.jpg 271,54,440,327,16
+../datasets/test_network/JPEGImages/00013.jpg 248,1,595,206,0
+../datasets/test_network/JPEGImages/05051.jpg 258,1,416,74,16 324,20,514,275,11 155,84,312,229,27 235,222,323,302,10
+../datasets/test_network/JPEGImages/02923.jpg 426,237,513,290,19
+../datasets/test_network/JPEGImages/04569.jpg 493,54,557,236,28
+../datasets/test_network/JPEGImages/05978.jpg 360,146,544,288,17 136,118,356,216,3
+../datasets/test_network/JPEGImages/01910.jpg 429,1,515,153,15
+../datasets/test_network/JPEGImages/02186.jpg 288,1,596,239,16
+../datasets/test_network/JPEGImages/02944.jpg 459,148,533,230,19
+../datasets/test_network/JPEGImages/04801.jpg 217,1,440,152,30
+../datasets/test_network/JPEGImages/01137.jpg 429,67,528,260,10
+../datasets/test_network/JPEGImages/06345.jpg 304,1,497,198,6 188,46,305,203,20
+../datasets/test_network/JPEGImages/00486.jpg 145,3,378,159,4
+../datasets/test_network/JPEGImages/07225.jpg 142,1,329,79,9 240,92,384,301,30 409,61,500,245,15
+../datasets/test_network/JPEGImages/02191.jpg 141,35,390,326,16
+../datasets/test_network/JPEGImages/00936.jpg 423,69,607,288,8
+../datasets/test_network/JPEGImages/02856.jpg 331,11,405,91,19
+../datasets/test_network/JPEGImages/00217.jpg 469,84,640,223,2
+../datasets/test_network/JPEGImages/04255.jpg 119,136,283,207,27
+../datasets/test_network/JPEGImages/04728.jpg 201,163,315,241,29
+../datasets/test_network/JPEGImages/05225.jpg 287,162,474,273,10 180,188,357,289,25 164,1,367,133,11
+../datasets/test_network/JPEGImages/06925.jpg 272,93,520,247,7
+../datasets/test_network/JPEGImages/04390.jpg 418,70,507,249,27
+../datasets/test_network/JPEGImages/02912.jpg 229,98,305,170,19
+../datasets/test_network/JPEGImages/07248.jpg 176,1,308,129,24 331,1,539,216,9
+../datasets/test_network/JPEGImages/00470.jpg 201,1,312,147,3
+../datasets/test_network/JPEGImages/02725.jpg 196,263,274,319,19
+../datasets/test_network/JPEGImages/02383.jpg 393,29,577,216,17
+../datasets/test_network/JPEGImages/07132.jpg 347,153,540,235,15 154,186,365,320,30
+../datasets/test_network/JPEGImages/03536.jpg 353,155,470,262,23
+../datasets/test_network/JPEGImages/06456.jpg 456,1,510,80,28 161,1,434,153,0 400,140,484,203,19 166,214,303,348,2
+../datasets/test_network/JPEGImages/01629.jpg 451,1,593,106,13
+../datasets/test_network/JPEGImages/03462.jpg 142,65,291,219,22
+../datasets/test_network/JPEGImages/00315.jpg 130,31,306,210,2
+../datasets/test_network/JPEGImages/00078.jpg 128,1,415,270,0
+../datasets/test_network/JPEGImages/05429.jpg 238,1,458,116,11 170,1,310,149,25 327,85,490,237,27
+../datasets/test_network/JPEGImages/04564.jpg 141,146,258,276,28
+../datasets/test_network/JPEGImages/06744.jpg 135,1,419,138,8 424,1,509,77,19 402,106,592,247,0 200,158,372,242,28
+../datasets/test_network/JPEGImages/00841.jpg 116,15,294,155,6
+../datasets/test_network/JPEGImages/01158.jpg 360,130,545,290,10
+../datasets/test_network/JPEGImages/00307.jpg 219,1,370,124,2
+../datasets/test_network/JPEGImages/01525.jpg 425,179,561,297,13
+../datasets/test_network/JPEGImages/06988.jpg 334,1,588,162,9 189,126,399,274,30
+../datasets/test_network/JPEGImages/04480.jpg 263,185,388,305,28
+../datasets/test_network/JPEGImages/01821.jpg 160,199,297,342,14
+../datasets/test_network/JPEGImages/00530.jpg 206,1,335,217,4
+../datasets/test_network/JPEGImages/07307.jpg 157,1,313,92,24 367,47,515,272,30
+../datasets/test_network/JPEGImages/04694.jpg 309,46,424,149,29
+../datasets/test_network/JPEGImages/02676.jpg 501,193,585,277,19
+../datasets/test_network/JPEGImages/05944.jpg 216,73,392,269,3 351,183,522,318,17
+../datasets/test_network/JPEGImages/04560.jpg 250,162,397,282,28
+../datasets/test_network/JPEGImages/03170.jpg 368,70,525,184,20
+../datasets/test_network/JPEGImages/04088.jpg 149,1,242,152,26
+../datasets/test_network/JPEGImages/03699.jpg 115,63,274,181,24
+../datasets/test_network/JPEGImages/03244.jpg 177,1,279,159,21
+../datasets/test_network/JPEGImages/06307.jpg 189,71,271,131,18
+../datasets/test_network/JPEGImages/06214.jpg 344,29,580,190,3 161,154,228,264,29 212,70,284,144,18 234,103,413,285,6 388,208,536,322,20
+../datasets/test_network/JPEGImages/01698.jpg 233,152,374,261,14
+../datasets/test_network/JPEGImages/02996.jpg 366,1,447,78,19
+../datasets/test_network/JPEGImages/06869.jpg 335,1,568,149,9 165,173,364,318,30 358,198,483,319,15
+../datasets/test_network/JPEGImages/06382.jpg 387,1,517,84,22 148,1,423,265,0
+../datasets/test_network/JPEGImages/02166.jpg 168,32,334,209,15
+../datasets/test_network/JPEGImages/01651.jpg 260,105,421,264,13
+../datasets/test_network/JPEGImages/05842.jpg 323,1,425,102,21 422,18,594,172,14 147,3,311,156,13 240,160,351,313,5
+../datasets/test_network/JPEGImages/02680.jpg 519,308,571,391,19
+../datasets/test_network/JPEGImages/07177.jpg 323,1,557,70,30 184,49,335,139,24 311,151,486,260,7
+../datasets/test_network/JPEGImages/03979.jpg 370,178,407,299,25
+../datasets/test_network/JPEGImages/06411.jpg 374,1,505,50,2 158,44,414,229,8 202,221,355,333,22 389,223,460,311,19
+../datasets/test_network/JPEGImages/07069.jpg 175,1,338,179,30 200,183,308,305,15 325,1,566,172,9
+../datasets/test_network/JPEGImages/04678.jpg 385,19,443,154,29
+../datasets/test_network/JPEGImages/03820.jpg 117,1,237,119,24
+../datasets/test_network/JPEGImages/01378.jpg 399,1,592,277,11
+../datasets/test_network/JPEGImages/01803.jpg 280,41,423,158,14
+../datasets/test_network/JPEGImages/04091.jpg 398,56,586,139,26
+../datasets/test_network/JPEGImages/02356.jpg 137,144,299,301,17
+../datasets/test_network/JPEGImages/02315.jpg 360,156,505,277,17
+../datasets/test_network/JPEGImages/05628.jpg 134,1,443,218,12 393,130,520,278,14 258,250,372,352,21
+../datasets/test_network/JPEGImages/01616.jpg 277,122,432,272,13
+../datasets/test_network/JPEGImages/05401.jpg 143,1,411,106,16 330,24,486,224,10
+../datasets/test_network/JPEGImages/04336.jpg 401,83,541,257,27
+../datasets/test_network/JPEGImages/03081.jpg 210,112,360,269,20
+../datasets/test_network/JPEGImages/03115.jpg 178,137,273,274,20
+../datasets/test_network/JPEGImages/02641.jpg 274,45,348,114,18
+../datasets/test_network/JPEGImages/03982.jpg 369,1,413,220,25
+../datasets/test_network/JPEGImages/01903.jpg 263,66,424,229,14
+../datasets/test_network/JPEGImages/02115.jpg 277,1,382,142,15
+../datasets/test_network/JPEGImages/00150.jpg 113,42,429,341,1
+../datasets/test_network/JPEGImages/04239.jpg 134,1,223,154,27
+../datasets/test_network/JPEGImages/01867.jpg 166,13,275,161,14
+../datasets/test_network/JPEGImages/03401.jpg 287,13,419,149,22
+../datasets/test_network/JPEGImages/06956.jpg 179,57,358,209,15
+../datasets/test_network/JPEGImages/05994.jpg 327,1,497,119,17 322,173,377,254,18 168,88,313,246,20 353,191,539,345,6
+../datasets/test_network/JPEGImages/04383.jpg 349,33,522,198,27
+../datasets/test_network/JPEGImages/01888.jpg 240,6,386,137,14
+../datasets/test_network/JPEGImages/07262.jpg 302,1,503,135,7 143,13,327,215,9 374,124,519,256,24
+../datasets/test_network/JPEGImages/03219.jpg 379,59,544,228,21
+../datasets/test_network/JPEGImages/02269.jpg 392,1,539,141,17
+../datasets/test_network/JPEGImages/01099.jpg 323,1,586,148,9
+../datasets/test_network/JPEGImages/01508.jpg 113,1,356,247,12
+../datasets/test_network/JPEGImages/01923.jpg 187,1,263,135,15
+../datasets/test_network/JPEGImages/01208.jpg 445,1,535,148,10
+../datasets/test_network/JPEGImages/00472.jpg 349,52,611,156,4
+../datasets/test_network/JPEGImages/05649.jpg 291,78,448,232,23 179,1,334,116,21 310,1,504,67,26 391,199,534,303,13
+../datasets/test_network/JPEGImages/05382.jpg 299,1,497,116,16 258,1,308,87,25 172,1,260,164,10 277,148,507,252,4
+../datasets/test_network/JPEGImages/04348.jpg 366,48,521,226,27
+../datasets/test_network/JPEGImages/03192.jpg 254,118,392,274,21
+../datasets/test_network/JPEGImages/01788.jpg 184,203,321,340,14
+../datasets/test_network/JPEGImages/06470.jpg 170,1,450,112,0 460,1,517,67,28 153,153,301,292,2 348,229,427,300,19
+../datasets/test_network/JPEGImages/03087.jpg 385,82,545,184,20
+../datasets/test_network/JPEGImages/03240.jpg 274,1,388,122,21
+../datasets/test_network/JPEGImages/01736.jpg 160,123,299,236,14
+../datasets/test_network/JPEGImages/00835.jpg 272,124,449,261,6
+../datasets/test_network/JPEGImages/03494.jpg 199,1,361,110,22
+../datasets/test_network/JPEGImages/02780.jpg 366,14,455,76,19
+../datasets/test_network/JPEGImages/06048.jpg 157,98,328,270,6
+../datasets/test_network/JPEGImages/02898.jpg 460,151,509,233,19
+../datasets/test_network/JPEGImages/04151.jpg 148,147,300,288,26
+../datasets/test_network/JPEGImages/03767.jpg 163,109,312,242,24
+../datasets/test_network/JPEGImages/04761.jpg 444,50,498,181,29
+../datasets/test_network/JPEGImages/01945.jpg 358,154,547,248,15
+../datasets/test_network/JPEGImages/01699.jpg 233,92,372,207,14
+../datasets/test_network/JPEGImages/04444.jpg 142,204,300,245,28
+../datasets/test_network/JPEGImages/05120.jpg 158,1,288,235,4 285,34,472,287,16
+../datasets/test_network/JPEGImages/05226.jpg 288,103,478,218,10 174,135,358,246,25
+../datasets/test_network/JPEGImages/02082.jpg 125,31,303,116,15
+../datasets/test_network/JPEGImages/02870.jpg 298,9,379,79,19
+../datasets/test_network/JPEGImages/00674.jpg 416,1,599,112,5
+../datasets/test_network/JPEGImages/03941.jpg 244,1,295,199,25
+../datasets/test_network/JPEGImages/04654.jpg 195,136,248,251,29
+../datasets/test_network/JPEGImages/03507.jpg 275,54,389,184,23
+../datasets/test_network/JPEGImages/06429.jpg 292,1,432,160,22
+../datasets/test_network/JPEGImages/05832.jpg 398,182,531,302,23
+../datasets/test_network/JPEGImages/01118.jpg 322,12,529,207,9
+../datasets/test_network/JPEGImages/01750.jpg 293,1,470,111,14
+../datasets/test_network/JPEGImages/00213.jpg 126,1,469,210,1
+../datasets/test_network/JPEGImages/04077.jpg 124,1,266,135,26
+../datasets/test_network/JPEGImages/05569.jpg 196,74,310,221,14 319,1,539,262,12
+../datasets/test_network/JPEGImages/02428.jpg 168,137,240,176,18
+../datasets/test_network/JPEGImages/01319.jpg 203,176,371,253,10
+../datasets/test_network/JPEGImages/03989.jpg 183,194,229,372,25
+../datasets/test_network/JPEGImages/02302.jpg 143,173,292,332,17
+../datasets/test_network/JPEGImages/00485.jpg 151,50,375,212,4
+../datasets/test_network/JPEGImages/05786.jpg 158,47,305,194,13 355,73,536,251,5 273,1,454,98,21 206,216,352,348,14
+../datasets/test_network/JPEGImages/03858.jpg 366,163,510,278,25
+../datasets/test_network/JPEGImages/07025.jpg 154,1,361,239,7 365,52,559,239,9
+../datasets/test_network/JPEGImages/05026.jpg 412,93,540,242,27 306,1,564,111,16 118,1,382,265,11 326,216,498,355,10
+../datasets/test_network/JPEGImages/04779.jpg 174,221,288,262,29
+../datasets/test_network/JPEGImages/01523.jpg 107,1,393,248,12
+../datasets/test_network/JPEGImages/04011.jpg 460,1,510,143,25
+../datasets/test_network/JPEGImages/04153.jpg 131,24,297,176,26
+../datasets/test_network/JPEGImages/05848.jpg 273,1,429,134,23 147,73,415,362,12
+../datasets/test_network/JPEGImages/05335.jpg 344,43,486,210,27 194,1,328,124,4 149,129,333,283,16 379,203,429,294,25 282,1,467,71,11
+../datasets/test_network/JPEGImages/05710.jpg 174,183,283,303,13 339,129,530,257,12
+../datasets/test_network/JPEGImages/06475.jpg 137,85,402,363,8 401,194,559,314,22
+../datasets/test_network/JPEGImages/05889.jpg 162,120,325,266,5 374,1,594,94,12
+../datasets/test_network/JPEGImages/02464.jpg 332,100,375,181,18
+../datasets/test_network/JPEGImages/01773.jpg 155,216,274,333,14
+../datasets/test_network/JPEGImages/07006.jpg 413,30,524,197,24 250,68,426,229,15
+../datasets/test_network/JPEGImages/01077.jpg 319,1,575,245,9
+../datasets/test_network/JPEGImages/00316.jpg 120,1,306,154,2
+../datasets/test_network/JPEGImages/07013.jpg 147,1,347,158,7 334,1,567,229,9
+../datasets/test_network/JPEGImages/02277.jpg 233,59,350,211,17
+../datasets/test_network/JPEGImages/06587.jpg 138,1,310,220,8 356,28,510,180,28
+../datasets/test_network/JPEGImages/01521.jpg 118,63,390,323,12
+../datasets/test_network/JPEGImages/06551.jpg 163,27,325,189,2 293,10,467,139,28
+../datasets/test_network/JPEGImages/04140.jpg 130,175,286,255,26
+../datasets/test_network/JPEGImages/03866.jpg 147,176,295,314,25
+../datasets/test_network/JPEGImages/02416.jpg 233,304,305,349,18
+../datasets/test_network/JPEGImages/03044.jpg 244,96,391,195,20
+../datasets/test_network/JPEGImages/04401.jpg 233,159,342,257,27
+../datasets/test_network/JPEGImages/02628.jpg 342,257,408,335,18
+../datasets/test_network/JPEGImages/04760.jpg 443,120,492,240,29
+../datasets/test_network/JPEGImages/07183.jpg 145,1,375,195,9 334,87,515,256,15
+../datasets/test_network/JPEGImages/07055.jpg 369,1,592,156,9 419,185,509,301,15 184,6,354,248,30
+../datasets/test_network/JPEGImages/03324.jpg 339,12,507,151,21
+../datasets/test_network/JPEGImages/03162.jpg 337,1,511,124,20
+../datasets/test_network/JPEGImages/04080.jpg 468,1,566,164,26
+../datasets/test_network/JPEGImages/00025.jpg 257,1,583,246,0
+../datasets/test_network/JPEGImages/05763.jpg 390,49,530,174,23 219,77,374,242,14
+../datasets/test_network/JPEGImages/02571.jpg 164,29,238,100,18
+../datasets/test_network/JPEGImages/00236.jpg 423,31,584,184,2
+../datasets/test_network/JPEGImages/06954.jpg 133,1,371,141,7 369,17,534,132,24 191,166,359,309,15
+../datasets/test_network/JPEGImages/06951.jpg 169,36,401,301,7 367,208,518,265,24
+../datasets/test_network/JPEGImages/02295.jpg 328,28,502,215,17
+../datasets/test_network/JPEGImages/02797.jpg 240,70,315,138,19
+../datasets/test_network/JPEGImages/06874.jpg 385,1,528,122,15 156,1,375,121,30 192,158,342,247,7
+../datasets/test_network/JPEGImages/02180.jpg 197,1,367,204,16
+../datasets/test_network/JPEGImages/02838.jpg 396,138,480,183,19
+../datasets/test_network/JPEGImages/03331.jpg 389,167,494,306,21
+../datasets/test_network/JPEGImages/03775.jpg 197,121,351,232,24
+../datasets/test_network/JPEGImages/01617.jpg 277,68,434,223,13
+../datasets/test_network/JPEGImages/03706.jpg 280,38,430,192,24
+../datasets/test_network/JPEGImages/02812.jpg 485,198,553,286,19
+../datasets/test_network/JPEGImages/03859.jpg 368,101,534,262,25
+../datasets/test_network/JPEGImages/05293.jpg 268,107,536,262,11
+../datasets/test_network/JPEGImages/00692.jpg 250,103,419,274,5
+../datasets/test_network/JPEGImages/01391.jpg 102,17,279,279,11
+../datasets/test_network/JPEGImages/03751.jpg 122,1,285,100,24
+../datasets/test_network/JPEGImages/07108.jpg 165,1,440,182,7 410,1,591,218,30
+../datasets/test_network/JPEGImages/06406.jpg 137,59,416,255,0
+../datasets/test_network/JPEGImages/04796.jpg 366,1,596,152,30
+../datasets/test_network/JPEGImages/02579.jpg 511,225,590,308,18
+../datasets/test_network/JPEGImages/04690.jpg 446,51,584,168,29
+../datasets/test_network/JPEGImages/03043.jpg 246,148,389,245,20
+../datasets/test_network/JPEGImages/05532.jpg 254,1,403,103,13
+../datasets/test_network/JPEGImages/00146.jpg 240,3,568,310,1
+../datasets/test_network/JPEGImages/04491.jpg 332,134,488,266,28
+../datasets/test_network/JPEGImages/04746.jpg 413,233,533,280,29
+../datasets/test_network/JPEGImages/02007.jpg 273,193,439,308,15
+../datasets/test_network/JPEGImages/01718.jpg 178,155,329,297,14
+../datasets/test_network/JPEGImages/03066.jpg 433,1,552,136,20
+../datasets/test_network/JPEGImages/01381.jpg 414,1,601,201,11
+../datasets/test_network/JPEGImages/01558.jpg 162,1,326,117,13
+../datasets/test_network/JPEGImages/06394.jpg 244,1,375,82,22 172,91,394,303,0
+../datasets/test_network/JPEGImages/01916.jpg 333,1,422,185,15
+../datasets/test_network/JPEGImages/02345.jpg 293,94,470,258,17
+../datasets/test_network/JPEGImages/05392.jpg 330,114,410,268,25 135,59,352,300,11
+../datasets/test_network/JPEGImages/03591.jpg 254,1,411,122,23
+../datasets/test_network/JPEGImages/01086.jpg 372,1,580,137,9
+../datasets/test_network/JPEGImages/05644.jpg 125,1,442,194,12 412,1,598,73,14
+../datasets/test_network/JPEGImages/04305.jpg 293,1,419,135,27
+../datasets/test_network/JPEGImages/00419.jpg 187,120,291,334,3
+../datasets/test_network/JPEGImages/00038.jpg 122,97,320,330,0
+../datasets/test_network/JPEGImages/04972.jpg 339,162,464,355,30
+../datasets/test_network/JPEGImages/04059.jpg 231,137,398,215,26
+../datasets/test_network/JPEGImages/02400.jpg 485,104,573,160,18
+../datasets/test_network/JPEGImages/04575.jpg 405,83,459,254,28
+../datasets/test_network/JPEGImages/04709.jpg 175,186,280,292,29
+../datasets/test_network/JPEGImages/01481.jpg 191,11,453,225,12
+../datasets/test_network/JPEGImages/03508.jpg 272,1,389,130,23
+../datasets/test_network/JPEGImages/00507.jpg 157,110,388,191,4
+../datasets/test_network/JPEGImages/00310.jpg 392,1,540,162,2
+../datasets/test_network/JPEGImages/05621.jpg 278,6,421,182,26 402,159,536,273,13 182,1,291,107,23 246,224,336,364,5
+../datasets/test_network/JPEGImages/06730.jpg 290,106,542,231,0 158,180,308,313,28 125,1,419,159,8
+../datasets/test_network/JPEGImages/02674.jpg 500,288,581,377,19
+../datasets/test_network/JPEGImages/01174.jpg 374,180,561,255,10
+../datasets/test_network/JPEGImages/03971.jpg 139,173,330,234,25
+../datasets/test_network/JPEGImages/06676.jpg 131,19,295,294,0 327,65,400,250,28
+../datasets/test_network/JPEGImages/07268.jpg 156,1,333,208,30 409,38,495,230,15
+../datasets/test_network/JPEGImages/04691.jpg 445,1,586,109,29
+../datasets/test_network/JPEGImages/03349.jpg 131,1,255,138,22
+../datasets/test_network/JPEGImages/01483.jpg 124,113,374,291,12
+../datasets/test_network/JPEGImages/03570.jpg 411,48,532,182,23
+../datasets/test_network/JPEGImages/00176.jpg 262,1,582,211,1
+../datasets/test_network/JPEGImages/01858.jpg 237,197,386,325,14
+../datasets/test_network/JPEGImages/06024.jpg 274,46,433,167,17 251,159,318,226,18 340,133,535,316,6
+../datasets/test_network/JPEGImages/05995.jpg 162,31,309,188,20 326,124,378,201,18 351,130,545,298,6
+../datasets/test_network/JPEGImages/02406.jpg 398,123,478,168,18
+../datasets/test_network/JPEGImages/05587.jpg 397,193,524,300,23 225,123,376,242,21 286,1,542,161,12 141,1,300,151,14
+../datasets/test_network/JPEGImages/01270.jpg 449,13,540,209,10
+../datasets/test_network/JPEGImages/05585.jpg 154,104,300,246,14 291,1,606,270,12 234,233,373,329,21
+../datasets/test_network/JPEGImages/06131.jpg 288,89,478,236,6 214,202,283,267,18
+../datasets/test_network/JPEGImages/06635.jpg 424,1,560,126,22 265,130,437,274,2
+../datasets/test_network/JPEGImages/04161.jpg 342,105,423,276,26
+../datasets/test_network/JPEGImages/01731.jpg 277,85,419,191,14
+../datasets/test_network/JPEGImages/05607.jpg 330,127,490,263,13 187,60,356,143,26 361,1,505,73,23
+../datasets/test_network/JPEGImages/02487.jpg 192,84,240,160,18
+../datasets/test_network/JPEGImages/03553.jpg 390,93,542,249,23
+../datasets/test_network/JPEGImages/05956.jpg 272,49,410,226,17 390,169,537,269,20
+../datasets/test_network/JPEGImages/06763.jpg 202,91,366,251,22 408,4,581,157,2
+../datasets/test_network/JPEGImages/02646.jpg 201,124,274,191,18
+../datasets/test_network/JPEGImages/01650.jpg 257,157,418,311,13
+../datasets/test_network/JPEGImages/02138.jpg 360,95,520,274,15
+../datasets/test_network/JPEGImages/04820.jpg 424,1,566,190,30
+../datasets/test_network/JPEGImages/03535.jpg 353,205,470,312,23
+../datasets/test_network/JPEGImages/00499.jpg 215,1,393,178,4
+../datasets/test_network/JPEGImages/05501.jpg 179,60,350,187,26 367,75,483,213,23
+../datasets/test_network/JPEGImages/04809.jpg 319,4,565,240,30
+../datasets/test_network/JPEGImages/04205.jpg 190,163,274,313,26
+../datasets/test_network/JPEGImages/00793.jpg 358,99,563,289,6
+../datasets/test_network/JPEGImages/06777.jpg 302,58,460,221,22 117,30,303,216,2 444,1,520,81,28
+../datasets/test_network/JPEGImages/00732.jpg 101,98,283,267,5
+../datasets/test_network/JPEGImages/06455.jpg 429,1,511,137,28 131,1,433,209,0 391,196,488,266,19
+../datasets/test_network/JPEGImages/04099.jpg 113,65,279,147,26
+../datasets/test_network/JPEGImages/02963.jpg 447,107,534,186,19
+../datasets/test_network/JPEGImages/06726.jpg 384,80,484,148,19
+../datasets/test_network/JPEGImages/04393.jpg 151,159,304,286,27
+../datasets/test_network/JPEGImages/03781.jpg 132,1,273,119,24
+../datasets/test_network/JPEGImages/05063.jpg 100,89,265,182,27 277,1,565,279,11
+../datasets/test_network/JPEGImages/05500.jpg 180,128,352,237,26 366,138,476,269,23 137,1,368,125,12
+../datasets/test_network/JPEGImages/04852.jpg 144,203,337,319,30
+../datasets/test_network/JPEGImages/01339.jpg 329,1,525,175,10
+../datasets/test_network/JPEGImages/03407.jpg 387,1,557,129,22
+../datasets/test_network/JPEGImages/07137.jpg 391,1,488,133,24 136,1,358,77,30
+../datasets/test_network/JPEGImages/06328.jpg 273,43,444,224,17 189,76,265,158,18 184,193,321,319,20 338,181,535,326,6
+../datasets/test_network/JPEGImages/04902.jpg 132,26,349,242,30
+../datasets/test_network/JPEGImages/00677.jpg 234,1,392,123,5
+../datasets/test_network/JPEGImages/07016.jpg 137,28,363,253,30 436,236,522,316,15
+../datasets/test_network/JPEGImages/00603.jpg 448,27,559,274,4
+../datasets/test_network/JPEGImages/02360.jpg 120,1,294,146,17
+../datasets/test_network/JPEGImages/00093.jpg 194,1,537,193,0
+../datasets/test_network/JPEGImages/02233.jpg 223,21,527,307,16
+../datasets/test_network/JPEGImages/06471.jpg 185,1,409,84,0 152,86,311,235,2 351,168,435,249,19
+../datasets/test_network/JPEGImages/06662.jpg 210,1,390,170,2
+../datasets/test_network/JPEGImages/03655.jpg 244,1,362,129,23
+../datasets/test_network/JPEGImages/05908.jpg 191,139,315,281,20 302,171,409,255,29
+../datasets/test_network/JPEGImages/04143.jpg 110,5,277,87,26
+../datasets/test_network/JPEGImages/04226.jpg 496,1,589,140,27
+../datasets/test_network/JPEGImages/06631.jpg 100,1,331,241,0 321,102,382,192,19 415,213,525,330,22
+../datasets/test_network/JPEGImages/01018.jpg 252,69,558,326,8
+../datasets/test_network/JPEGImages/01606.jpg 150,146,266,257,13
+../datasets/test_network/JPEGImages/00800.jpg 169,170,351,342,6
+../datasets/test_network/JPEGImages/02213.jpg 221,137,502,313,16
+../datasets/test_network/JPEGImages/04693.jpg 306,104,426,210,29
+../datasets/test_network/JPEGImages/00378.jpg 412,157,487,309,3
+../datasets/test_network/JPEGImages/03227.jpg 203,123,352,270,21
+../datasets/test_network/JPEGImages/02051.jpg 467,84,553,270,15
+../datasets/test_network/JPEGImages/05914.jpg 310,1,504,173,3 148,76,327,261,6 385,182,524,332,17 332,236,370,298,18
+../datasets/test_network/JPEGImages/05957.jpg 269,1,408,167,17 386,112,542,217,20 307,215,380,262,18
+../datasets/test_network/JPEGImages/06487.jpg 294,1,363,49,19 173,162,355,380,8 388,263,456,373,22
+../datasets/test_network/JPEGImages/06550.jpg 167,103,329,249,2 300,80,464,205,28
+../datasets/test_network/JPEGImages/01612.jpg 390,59,568,232,13
+../datasets/test_network/JPEGImages/06119.jpg 197,5,359,192,17 425,135,540,228,29 163,150,255,269,20
+../datasets/test_network/JPEGImages/06253.jpg 332,15,525,156,6 188,115,328,219,20
+../datasets/test_network/JPEGImages/04202.jpg 278,1,373,144,26
+../datasets/test_network/JPEGImages/04018.jpg 212,102,265,295,25
+../datasets/test_network/JPEGImages/00425.jpg 363,1,480,226,3
+../datasets/test_network/JPEGImages/06586.jpg 138,8,314,273,8 354,83,494,241,28
+../datasets/test_network/JPEGImages/02454.jpg 366,251,422,332,18
+../datasets/test_network/JPEGImages/06659.jpg 375,49,535,204,22 238,193,389,353,2
+../datasets/test_network/JPEGImages/02068.jpg 346,99,532,263,15
+../datasets/test_network/JPEGImages/00325.jpg 406,1,570,140,2
+../datasets/test_network/JPEGImages/04650.jpg 269,14,333,151,29
+../datasets/test_network/JPEGImages/03777.jpg 193,1,353,120,24
+../datasets/test_network/JPEGImages/01027.jpg 294,61,478,255,9
+../datasets/test_network/JPEGImages/03930.jpg 486,79,554,289,25
+../datasets/test_network/JPEGImages/04943.jpg 201,8,330,221,30
+../datasets/test_network/JPEGImages/00659.jpg 413,1,595,141,5
+../datasets/test_network/JPEGImages/04355.jpg 373,128,544,243,27
+../datasets/test_network/JPEGImages/06830.jpg 241,1,421,169,7 460,1,553,67,24 151,190,356,341,30 330,110,585,268,9
+../datasets/test_network/JPEGImages/00760.jpg 317,1,456,169,6
+../datasets/test_network/JPEGImages/02522.jpg 291,43,353,127,18
+../datasets/test_network/JPEGImages/00387.jpg 144,142,225,285,3
+../datasets/test_network/JPEGImages/06880.jpg 261,41,439,224,9 450,1,542,97,24
+../datasets/test_network/JPEGImages/06516.jpg 274,1,578,234,8 142,86,290,218,22
+../datasets/test_network/JPEGImages/06315.jpg 194,1,365,113,17 186,164,305,325,6 395,34,540,92,29 312,191,454,302,20
+../datasets/test_network/JPEGImages/02652.jpg 148,102,216,169,18
+../datasets/test_network/JPEGImages/02773.jpg 367,55,425,143,19
+../datasets/test_network/JPEGImages/04423.jpg 458,34,568,217,28
+../datasets/test_network/JPEGImages/05180.jpg 233,1,441,58,10 486,1,555,113,25 324,151,447,255,4 125,122,382,286,16
+../datasets/test_network/JPEGImages/04269.jpg 477,1,566,117,27
+../datasets/test_network/JPEGImages/03867.jpg 140,123,290,279,25
+../datasets/test_network/JPEGImages/05703.jpg 290,1,445,102,5 376,155,504,274,26
+../datasets/test_network/JPEGImages/06366.jpg 205,199,333,284,22
+../datasets/test_network/JPEGImages/00066.jpg 119,1,369,185,0
+../datasets/test_network/JPEGImages/04098.jpg 121,129,281,207,26
+../datasets/test_network/JPEGImages/01317.jpg 416,1,495,119,10
+../datasets/test_network/JPEGImages/01310.jpg 132,1,299,172,10
+../datasets/test_network/JPEGImages/04086.jpg 159,102,247,263,26
+../datasets/test_network/JPEGImages/02458.jpg 364,76,426,162,18
+../datasets/test_network/JPEGImages/05761.jpg 391,163,515,278,23 227,187,371,334,14
+../datasets/test_network/JPEGImages/06762.jpg 299,1,563,74,0 223,1,282,115,28 218,137,376,297,22 408,91,568,233,2
+../datasets/test_network/JPEGImages/04309.jpg 149,1,286,126,27
+../datasets/test_network/JPEGImages/02284.jpg 137,1,258,151,17
+../datasets/test_network/JPEGImages/04477.jpg 416,50,568,217,28
+../datasets/test_network/JPEGImages/00086.jpg 117,1,383,127,0
+../datasets/test_network/JPEGImages/05323.jpg 381,1,467,98,25 147,1,354,114,16 188,104,413,198,4 203,175,445,269,11
+../datasets/test_network/JPEGImages/00897.jpg 167,1,425,268,7
+../datasets/test_network/JPEGImages/00663.jpg 132,149,282,300,5
+../datasets/test_network/JPEGImages/03521.jpg 250,48,400,206,23
+../datasets/test_network/JPEGImages/03705.jpg 285,102,427,254,24
+../datasets/test_network/JPEGImages/04007.jpg 441,163,489,295,25
+../datasets/test_network/JPEGImages/05385.jpg 348,114,438,284,27 129,37,342,292,11 270,1,527,63,4
+../datasets/test_network/JPEGImages/06535.jpg 266,1,476,133,0 202,54,370,162,28 186,136,358,303,2
+../datasets/test_network/JPEGImages/02092.jpg 248,139,391,310,15
+../datasets/test_network/JPEGImages/00181.jpg 353,1,554,262,1
+../datasets/test_network/JPEGImages/03576.jpg 273,11,400,154,23
+../datasets/test_network/JPEGImages/00332.jpg 148,94,319,248,2
