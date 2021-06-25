@@ -14,7 +14,7 @@ https://drive.google.com/drive/folders/1MoOe1INQvnFCjFyQZcOlgLsDCRPAbcHm?usp=sha
 
 
 ### Execute YoloV3
-![video02](./videos/YoloV3.mp4)
+![video02](./videos/YoloV3.gif)
 
 
 ### Execute YoloV3 Shuffle MobileNet
