@@ -18,11 +18,14 @@ https://drive.google.com/drive/folders/1MoOe1INQvnFCjFyQZcOlgLsDCRPAbcHm?usp=sha
 
 
 ### Execute YoloV3 Shuffle MobileNet
-![image01](./images/yolov3_shuffle_mobilenet_05028.jpg)
-![image02](./images/yolov3_shuffle_mobilenet_05733.jpg)
-![image03](./images/yolov3_shuffle_mobilenet_06203.jpg)
-![image04](./images/yolov3_shuffle_mobilenet_06412.jpg)
-![image05](./images/yolov3_shuffle_mobilenet_06930.jpg)
+<div>
+    <img src="./images/yolov3_shuffle_mobilenet_05028.jpg" width=200>
+    <img src="./images/yolov3_shuffle_mobilenet_05733.jpg" width=200>
+    <img src="./images/yolov3_shuffle_mobilenet_06203.jpg" width=200>
+    <img src="./images/yolov3_shuffle_mobilenet_06412.jpg" width=200>
+    <img src="./images/yolov3_shuffle_mobilenet_06930.jpg" width=200>
+</div>
+
 
 
 ### Execute YoloV3
