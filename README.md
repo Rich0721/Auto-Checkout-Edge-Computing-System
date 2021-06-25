@@ -10,10 +10,7 @@ https://drive.google.com/drive/folders/1MoOe1INQvnFCjFyQZcOlgLsDCRPAbcHm?usp=sha
 
 
 ### Execute YoloV3 Shuffle MobileNet
-<video width="640" height="480" controls>
-    <source src='./videos/Yolov3_Shuffle_Mobilenet.mp4' type="video/mp4">
-</video>
-[![Watch the video](./videos/Yolov3_Shuffle_Mobilenet.mp4)]
+![video01](./videos/ezgif.com-gif-maker.gif)
 
 
 ### Execute YoloV3
