@@ -10,7 +10,7 @@ https://drive.google.com/drive/folders/1MoOe1INQvnFCjFyQZcOlgLsDCRPAbcHm?usp=sha
 
 
 ### Execute YoloV3 Shuffle MobileNet
-(./videos/Yolov3_Shuffle_Mobilenet.mp4)
+[![Watch the video](./videos/Yolov3_Shuffle_Mobilenet.mp4)]
 
 
 ### Execute YoloV3
