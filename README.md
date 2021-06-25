@@ -19,21 +19,23 @@ https://drive.google.com/drive/folders/1MoOe1INQvnFCjFyQZcOlgLsDCRPAbcHm?usp=sha
 
 ### Execute YoloV3 Shuffle MobileNet
 <div>
-    <img src="./images/yolov3_shuffle_mobilenet_05028.jpg" width=200>
-    <img src="./images/yolov3_shuffle_mobilenet_05733.jpg" width=200>
-    <img src="./images/yolov3_shuffle_mobilenet_06203.jpg" width=200>
-    <img src="./images/yolov3_shuffle_mobilenet_06412.jpg" width=200>
-    <img src="./images/yolov3_shuffle_mobilenet_06930.jpg" width=200>
+    <img src="./images/yolov3_shuffle_mobilenet_05028.jpg" width=100>
+    <img src="./images/yolov3_shuffle_mobilenet_05733.jpg" width=100>
+    <img src="./images/yolov3_shuffle_mobilenet_06203.jpg" width=100>
+    <img src="./images/yolov3_shuffle_mobilenet_06412.jpg" width=100>
+    <img src="./images/yolov3_shuffle_mobilenet_06930.jpg" width=100>
 </div>
 
 
 
 ### Execute YoloV3
-![image06](./images/yolov3_05028.jpg)
-![image07](./images/yolov3_05733.jpg)
-![image08](./images/yolov3_06203.jpg)
-![image09](./images/yolov3_06412.jpg)
-![image10](./images/yolov3_06930.jpg)
+<div>
+    <img src="./images/yolov3_05028.jpg" width=100>
+    <img src="./images/yolov3_05733.jpg" width=100>
+    <img src="./images/yolov3_06203.jpg" width=100>
+    <img src="./images/yolov3_06412.jpg" width=100>
+    <img src="./images/yolov3_06930.jpg" width=100>
+</div>
 
 
 ### Requriments
